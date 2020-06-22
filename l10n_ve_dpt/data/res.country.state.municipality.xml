@@ -236,12 +236,6 @@
 		<field name="ubigeo">0503</field>
 	</record>
 
-	<record id="mun_ve_ARA_0503" model="res.country.state.municipality">
-		<field name="name">Girardot  </field>
-		<field name="state_id" ref="est_ve_ARA" />
-		<field name="ubigeo">0503</field>
-	</record>
-
 	<record id="mun_ve_ARA_0504" model="res.country.state.municipality">
 		<field name="name">José Ángel Lamas</field>
 		<field name="state_id" ref="est_ve_ARA" />
@@ -1174,12 +1168,6 @@
 
 	<record id="mun_ve_MIR_1519" model="res.country.state.municipality">
 		<field name="name">Sucre </field>
-		<field name="state_id" ref="est_ve_MIR" />
-		<field name="ubigeo">1519</field>
-	</record>
-
-	<record id="mun_ve_MIR_1519" model="res.country.state.municipality">
-		<field name="name">Sucre</field>
 		<field name="state_id" ref="est_ve_MIR" />
 		<field name="ubigeo">1519</field>
 	</record>
