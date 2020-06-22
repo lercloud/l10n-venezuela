@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8' ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <odoo noupdate="0">
 <record id="par_ve_DTC_010101" model="res.country.state.municipality.parish">
