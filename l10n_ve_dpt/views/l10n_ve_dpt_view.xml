@@ -37,7 +37,7 @@
         <record id="action_state" model="ir.actions.act_window">
             <field name="name">State</field>
             <field name="res_model">res.country.state</field>
-            <field name="view_type">form</field>
+            <field name="type">ir.actions.act_window</field>
             <field name="view_mode">tree,form</field>
             <field name="context">{"search_default_Venezuela":1}</field>
         </record>
@@ -73,7 +73,7 @@
         <record id="action_municipality" model="ir.actions.act_window">
             <field name="name">Municipality</field>
             <field name="res_model">res.country.state.municipality</field>
-            <field name="view_type">form</field>
+            <field name="type">ir.actions.act_window</field>
             <field name="view_mode">tree,form</field>
         </record>
 
@@ -109,7 +109,7 @@
         <record id="action_parish" model="ir.actions.act_window">
             <field name="name">Parish</field>
             <field name="res_model">res.country.state.municipality.parish</field>
-            <field name="view_type">form</field>
+            <field name="type">ir.actions.act_window</field>
             <field name="view_mode">tree,form</field>
         </record>
 
