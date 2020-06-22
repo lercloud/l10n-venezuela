@@ -22,8 +22,8 @@ manera que queden disponibles en todos los campos de dirección en modelos deriv
         "data/res.country.state.municipality.parish.xml",
         "views/l10n_ve_dpt_view.xml",
         "views/res_partner.xml",
-        "security/ir.model.access.csv"
+        "security/ir.model.access.csv",
     ],
     "demo": [],
-    "installable": True
+    "installable": True,
 }
