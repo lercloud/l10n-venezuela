@@ -3,7 +3,7 @@
 <odoo noupdate="1">
 	  	
 <record id="mun_ve_DTC_0101" model="res.country.state.municipality">
-	<field name="name">Bolivariano Libertador </field>
+	<field name="name">Bolivariano Libertador</field>
 	<field name="state_id" ref="est_ve_DTC" />
 	<field name="ubigeo">0101</field>
 </record>
@@ -165,7 +165,7 @@
 </record>
 
 <record id="mun_ve_ANZ_0320" model="res.country.state.municipality">
-	<field name="name">Sir Arthur Mc Gregor </field>
+	<field name="name">Sir Arthur Mc Gregor</field>
 	<field name="state_id" ref="est_ve_ANZ" />
 	<field name="ubigeo">0320</field>
 </record>
@@ -195,7 +195,7 @@
 </record>
 
 <record id="mun_ve_APU_0404" model="res.country.state.municipality">
-	<field name="name">Páez </field>
+	<field name="name">Páez</field>
 	<field name="state_id" ref="est_ve_APU" />
 	<field name="ubigeo">0404</field>
 </record>
@@ -207,7 +207,7 @@
 </record>
 
 <record id="mun_ve_APU_0406" model="res.country.state.municipality">
-	<field name="name">Rómulo Gallegos </field>
+	<field name="name">Rómulo Gallegos</field>
 	<field name="state_id" ref="est_ve_APU" />
 	<field name="ubigeo">0406</field>
 </record>
@@ -231,7 +231,7 @@
 </record>
 
 <record id="mun_ve_ARA_0503" model="res.country.state.municipality">
-	<field name="name">Girardot </field>
+	<field name="name">Girardot</field>
 	<field name="state_id" ref="est_ve_ARA" />
 	<field name="ubigeo">0503</field>
 </record>
@@ -321,7 +321,7 @@
 </record>
 
 <record id="mun_ve_ARA_0518" model="res.country.state.municipality">
-	<field name="name">Ocumare de La Costa de Oro </field>
+	<field name="name">Ocumare de La Costa de Oro</field>
 	<field name="state_id" ref="est_ve_ARA" />
 	<field name="ubigeo">0518</field>
 </record>
@@ -435,7 +435,7 @@
 </record>
 
 <record id="mun_ve_BOL_0707" model="res.country.state.municipality">
-	<field name="name">Bolivariano Angostura </field>
+	<field name="name">Bolivariano Angostura</field>
 	<field name="state_id" ref="est_ve_BOL" />
 	<field name="ubigeo">0707</field>
 </record>
@@ -459,7 +459,7 @@
 </record>
 
 <record id="mun_ve_BOL_0711" model="res.country.state.municipality">
-	<field name="name">Padre Pedro Chien </field>
+	<field name="name">Padre Pedro Chien</field>
 	<field name="state_id" ref="est_ve_BOL" />
 	<field name="ubigeo">0711</field>
 </record>
@@ -495,7 +495,7 @@
 </record>
 
 <record id="mun_ve_CAR_0806" model="res.country.state.municipality">
-	<field name="name">Libertador </field>
+	<field name="name">Libertador</field>
 	<field name="state_id" ref="est_ve_CAR" />
 	<field name="ubigeo">0806</field>
 </record>
@@ -519,7 +519,7 @@
 </record>
 
 <record id="mun_ve_CAR_0810" model="res.country.state.municipality">
-	<field name="name">Naguanagua </field>
+	<field name="name">Naguanagua</field>
 	<field name="state_id" ref="est_ve_CAR" />
 	<field name="ubigeo">0810</field>
 </record>
@@ -531,7 +531,7 @@
 </record>
 
 <record id="mun_ve_CAR_0812" model="res.country.state.municipality">
-	<field name="name">San Diego </field>
+	<field name="name">San Diego</field>
 	<field name="state_id" ref="est_ve_CAR" />
 	<field name="ubigeo">0812</field>
 </record>
@@ -585,13 +585,13 @@
 </record>
 
 <record id="mun_ve_COJ_0907" model="res.country.state.municipality">
-	<field name="name">Rómulo Gallegos </field>
+	<field name="name">Rómulo Gallegos</field>
 	<field name="state_id" ref="est_ve_COJ" />
 	<field name="ubigeo">0907</field>
 </record>
 
 <record id="mun_ve_COJ_0908" model="res.country.state.municipality">
-	<field name="name">Ezequiel Zamora </field>
+	<field name="name">Ezequiel Zamora</field>
 	<field name="state_id" ref="est_ve_COJ" />
 	<field name="ubigeo">0908</field>
 </record>
@@ -663,7 +663,7 @@
 </record>
 
 <record id="mun_ve_FAL_1107" model="res.country.state.municipality">
-	<field name="name">Dabajuro </field>
+	<field name="name">Dabajuro</field>
 	<field name="state_id" ref="est_ve_FAL" />
 	<field name="ubigeo">1107</field>
 </record>
@@ -717,7 +717,7 @@
 </record>
 
 <record id="mun_ve_FAL_1116" model="res.country.state.municipality">
-	<field name="name">Palmasola </field>
+	<field name="name">Palmasola</field>
 	<field name="state_id" ref="est_ve_FAL" />
 	<field name="ubigeo">1116</field>
 </record>
@@ -765,7 +765,7 @@
 </record>
 
 <record id="mun_ve_FAL_1124" model="res.country.state.municipality">
-	<field name="name">Urumaco </field>
+	<field name="name">Urumaco</field>
 	<field name="state_id" ref="est_ve_FAL" />
 	<field name="ubigeo">1124</field>
 </record>
@@ -789,7 +789,7 @@
 </record>
 
 <record id="mun_ve_GUA_1203" model="res.country.state.municipality">
-	<field name="name">El Socorro </field>
+	<field name="name">El Socorro</field>
 	<field name="state_id" ref="est_ve_GUA" />
 	<field name="ubigeo">1203</field>
 </record>
@@ -831,7 +831,7 @@
 </record>
 
 <record id="mun_ve_GUA_1210" model="res.country.state.municipality">
-	<field name="name">Ortiz </field>
+	<field name="name">Ortiz</field>
 	<field name="state_id" ref="est_ve_GUA" />
 	<field name="ubigeo">1210</field>
 </record>
@@ -849,13 +849,13 @@
 </record>
 
 <record id="mun_ve_GUA_1213" model="res.country.state.municipality">
-	<field name="name">San José de Guaribe </field>
+	<field name="name">San José de Guaribe</field>
 	<field name="state_id" ref="est_ve_GUA" />
 	<field name="ubigeo">1213</field>
 </record>
 
 <record id="mun_ve_GUA_1214" model="res.country.state.municipality">
-	<field name="name">Santa María de Ipire </field>
+	<field name="name">Santa María de Ipire</field>
 	<field name="state_id" ref="est_ve_GUA" />
 	<field name="ubigeo">1214</field>
 </record>
@@ -939,7 +939,7 @@
 </record>
 
 <record id="mun_ve_MER_1404" model="res.country.state.municipality">
-	<field name="name">Aricagua </field>
+	<field name="name">Aricagua</field>
 	<field name="state_id" ref="est_ve_MER" />
 	<field name="ubigeo">1404</field>
 </record>
@@ -951,7 +951,7 @@
 </record>
 
 <record id="mun_ve_MER_1406" model="res.country.state.municipality">
-	<field name="name">Campo Elías </field>
+	<field name="name">Campo Elías</field>
 	<field name="state_id" ref="est_ve_MER" />
 	<field name="ubigeo">1406</field>
 </record>
@@ -963,19 +963,19 @@
 </record>
 
 <record id="mun_ve_MER_1408" model="res.country.state.municipality">
-	<field name="name">Cardenal Quintero </field>
+	<field name="name">Cardenal Quintero</field>
 	<field name="state_id" ref="est_ve_MER" />
 	<field name="ubigeo">1408</field>
 </record>
 
 <record id="mun_ve_MER_1409" model="res.country.state.municipality">
-	<field name="name">Guaraque </field>
+	<field name="name">Guaraque</field>
 	<field name="state_id" ref="est_ve_MER" />
 	<field name="ubigeo">1409</field>
 </record>
 
 <record id="mun_ve_MER_1410" model="res.country.state.municipality">
-	<field name="name">Julio César Salas </field>
+	<field name="name">Julio César Salas</field>
 	<field name="state_id" ref="est_ve_MER" />
 	<field name="ubigeo">1410</field>
 </record>
@@ -987,7 +987,7 @@
 </record>
 
 <record id="mun_ve_MER_1412" model="res.country.state.municipality">
-	<field name="name">Libertador </field>
+	<field name="name">Libertador</field>
 	<field name="state_id" ref="est_ve_MER" />
 	<field name="ubigeo">1412</field>
 </record>
@@ -999,19 +999,19 @@
 </record>
 
 <record id="mun_ve_MER_1414" model="res.country.state.municipality">
-	<field name="name">Obispo Ramos de Lora </field>
+	<field name="name">Obispo Ramos de Lora</field>
 	<field name="state_id" ref="est_ve_MER" />
 	<field name="ubigeo">1414</field>
 </record>
 
 <record id="mun_ve_MER_1415" model="res.country.state.municipality">
-	<field name="name">Padre Noguera </field>
+	<field name="name">Padre Noguera</field>
 	<field name="state_id" ref="est_ve_MER" />
 	<field name="ubigeo">1415</field>
 </record>
 
 <record id="mun_ve_MER_1416" model="res.country.state.municipality">
-	<field name="name">Pueblo Llano </field>
+	<field name="name">Pueblo Llano</field>
 	<field name="state_id" ref="est_ve_MER" />
 	<field name="ubigeo">1416</field>
 </record>
@@ -1029,7 +1029,7 @@
 </record>
 
 <record id="mun_ve_MER_1419" model="res.country.state.municipality">
-	<field name="name">Santos Marquina  </field>
+	<field name="name">Santos Marquina</field>
 	<field name="state_id" ref="est_ve_MER" />
 	<field name="ubigeo">1419</field>
 </record>
@@ -1047,7 +1047,7 @@
 </record>
 
 <record id="mun_ve_MER_1422" model="res.country.state.municipality">
-	<field name="name">Tulio Febres Cordero </field>
+	<field name="name">Tulio Febres Cordero</field>
 	<field name="state_id" ref="est_ve_MER" />
 	<field name="ubigeo">1422</field>
 </record>
@@ -1071,7 +1071,7 @@
 </record>
 
 <record id="mun_ve_MIR_1503" model="res.country.state.municipality">
-	<field name="name">Baruta </field>
+	<field name="name">Baruta</field>
 	<field name="state_id" ref="est_ve_MIR" />
 	<field name="ubigeo">1503</field>
 </record>
@@ -1089,13 +1089,13 @@
 </record>
 
 <record id="mun_ve_MIR_1506" model="res.country.state.municipality">
-	<field name="name">Carrizal </field>
+	<field name="name">Carrizal</field>
 	<field name="state_id" ref="est_ve_MIR" />
 	<field name="ubigeo">1506</field>
 </record>
 
 <record id="mun_ve_MIR_1507" model="res.country.state.municipality">
-	<field name="name">Chacao  </field>
+	<field name="name">Chacao</field>
 	<field name="state_id" ref="est_ve_MIR" />
 	<field name="ubigeo">1507</field>
 </record>
@@ -1107,7 +1107,7 @@
 </record>
 
 <record id="mun_ve_MIR_1509" model="res.country.state.municipality">
-	<field name="name">El Hatillo </field>
+	<field name="name">El Hatillo</field>
 	<field name="state_id" ref="est_ve_MIR" />
 	<field name="ubigeo">1509</field>
 </record>
@@ -1149,7 +1149,7 @@
 </record>
 
 <record id="mun_ve_MIR_1516" model="res.country.state.municipality">
-	<field name="name">Pedro Gual </field>
+	<field name="name">Pedro Gual</field>
 	<field name="state_id" ref="est_ve_MIR" />
 	<field name="ubigeo">1516</field>
 </record>
@@ -1167,7 +1167,7 @@
 </record>
 
 <record id="mun_ve_MIR_1519" model="res.country.state.municipality">
-	<field name="name">Sucre </field>
+	<field name="name">Sucre</field>
 	<field name="state_id" ref="est_ve_MIR" />
 	<field name="ubigeo">1519</field>
 </record>
@@ -1257,7 +1257,7 @@
 </record>
 
 <record id="mun_ve_MON_1613" model="res.country.state.municipality">
-	<field name="name">Uracoa </field>
+	<field name="name">Uracoa</field>
 	<field name="state_id" ref="est_ve_MON" />
 	<field name="ubigeo">1613</field>
 </record>
@@ -1575,7 +1575,7 @@
 </record>
 
 <record id="mun_ve_TAC_2013" model="res.country.state.municipality">
-	<field name="name">José María Vargas </field>
+	<field name="name">José María Vargas</field>
 	<field name="state_id" ref="est_ve_TAC" />
 	<field name="ubigeo">2013</field>
 </record>
@@ -1623,7 +1623,7 @@
 </record>
 
 <record id="mun_ve_TAC_2021" model="res.country.state.municipality">
-	<field name="name">Rafael Urdaneta </field>
+	<field name="name">Rafael Urdaneta</field>
 	<field name="state_id" ref="est_ve_TAC" />
 	<field name="ubigeo">2021</field>
 </record>
@@ -1647,7 +1647,7 @@
 </record>
 
 <record id="mun_ve_TAC_2025" model="res.country.state.municipality">
-	<field name="name">Simón Rodríguez  </field>
+	<field name="name">Simón Rodríguez</field>
 	<field name="state_id" ref="est_ve_TAC" />
 	<field name="ubigeo">2025</field>
 </record>
@@ -1659,7 +1659,7 @@
 </record>
 
 <record id="mun_ve_TAC_2027" model="res.country.state.municipality">
-	<field name="name">Torbes </field>
+	<field name="name">Torbes</field>
 	<field name="state_id" ref="est_ve_TAC" />
 	<field name="ubigeo">2027</field>
 </record>
@@ -1671,13 +1671,13 @@
 </record>
 
 <record id="mun_ve_TAC_2029" model="res.country.state.municipality">
-	<field name="name">San Judas Tadeo </field>
+	<field name="name">San Judas Tadeo</field>
 	<field name="state_id" ref="est_ve_TAC" />
 	<field name="ubigeo">2029</field>
 </record>
 
 <record id="mun_ve_TRU_2101" model="res.country.state.municipality">
-	<field name="name">Andrés Bello </field>
+	<field name="name">Andrés Bello</field>
 	<field name="state_id" ref="est_ve_TRU" />
 	<field name="ubigeo">2101</field>
 </record>
@@ -1713,19 +1713,19 @@
 </record>
 
 <record id="mun_ve_TRU_2107" model="res.country.state.municipality">
-	<field name="name">José Felipe Márquez Cañizales </field>
+	<field name="name">José Felipe Márquez Cañizales</field>
 	<field name="state_id" ref="est_ve_TRU" />
 	<field name="ubigeo">2107</field>
 </record>
 
 <record id="mun_ve_TRU_2108" model="res.country.state.municipality">
-	<field name="name">Juan Vicente Campo Elías </field>
+	<field name="name">Juan Vicente Campo Elías</field>
 	<field name="state_id" ref="est_ve_TRU" />
 	<field name="ubigeo">2108</field>
 </record>
 
 <record id="mun_ve_TRU_2109" model="res.country.state.municipality">
-	<field name="name">La Ceiba </field>
+	<field name="name">La Ceiba</field>
 	<field name="state_id" ref="est_ve_TRU" />
 	<field name="ubigeo">2109</field>
 </record>
@@ -1755,7 +1755,7 @@
 </record>
 
 <record id="mun_ve_TRU_2114" model="res.country.state.municipality">
-	<field name="name">Pampanito </field>
+	<field name="name">Pampanito</field>
 	<field name="state_id" ref="est_ve_TRU" />
 	<field name="ubigeo">2114</field>
 </record>
@@ -1779,7 +1779,7 @@
 </record>
 
 <record id="mun_ve_TRU_2118" model="res.country.state.municipality">
-	<field name="name">Trujillo </field>
+	<field name="name">Trujillo</field>
 	<field name="state_id" ref="est_ve_TRU" />
 	<field name="ubigeo">2118</field>
 </record>
@@ -1803,7 +1803,7 @@
 </record>
 
 <record id="mun_ve_YAR_2202" model="res.country.state.municipality">
-	<field name="name">Bolívar </field>
+	<field name="name">Bolívar</field>
 	<field name="state_id" ref="est_ve_YAR" />
 	<field name="ubigeo">2202</field>
 </record>
@@ -1815,7 +1815,7 @@
 </record>
 
 <record id="mun_ve_YAR_2204" model="res.country.state.municipality">
-	<field name="name">Cocorote </field>
+	<field name="name">Cocorote</field>
 	<field name="state_id" ref="est_ve_YAR" />
 	<field name="ubigeo">2204</field>
 </record>
@@ -1833,7 +1833,7 @@
 </record>
 
 <record id="mun_ve_YAR_2207" model="res.country.state.municipality">
-	<field name="name">La Trinidad </field>
+	<field name="name">La Trinidad</field>
 	<field name="state_id" ref="est_ve_YAR" />
 	<field name="ubigeo">2207</field>
 </record>
@@ -1869,7 +1869,7 @@
 </record>
 
 <record id="mun_ve_YAR_2213" model="res.country.state.municipality">
-	<field name="name">Urachiche  </field>
+	<field name="name">Urachiche</field>
 	<field name="state_id" ref="est_ve_YAR" />
 	<field name="ubigeo">2213</field>
 </record>
@@ -1923,7 +1923,7 @@
 </record>
 
 <record id="mun_ve_ZUL_2308" model="res.country.state.municipality">
-	<field name="name">Jesús María Semprún </field>
+	<field name="name">Jesús María Semprún</field>
 	<field name="state_id" ref="est_ve_ZUL" />
 	<field name="ubigeo">2308</field>
 </record>
@@ -1965,7 +1965,7 @@
 </record>
 
 <record id="mun_ve_ZUL_2315" model="res.country.state.municipality">
-	<field name="name">Indígena Bolivariano Guajira </field>
+	<field name="name">Indígena Bolivariano Guajira</field>
 	<field name="state_id" ref="est_ve_ZUL" />
 	<field name="ubigeo">2315</field>
 </record>
@@ -1989,7 +1989,7 @@
 </record>
 
 <record id="mun_ve_ZUL_2319" model="res.country.state.municipality">
-	<field name="name">Simón Bolívar </field>
+	<field name="name">Simón Bolívar</field>
 	<field name="state_id" ref="est_ve_ZUL" />
 	<field name="ubigeo">2319</field>
 </record>
