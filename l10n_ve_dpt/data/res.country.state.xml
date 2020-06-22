@@ -80,7 +80,7 @@
 		<field name="country_id" ref="base.ve" />
 		<field name="code">DTC</field>
 		<field name="name">Distrito Capital</field>
-		<field name ="ubigeo">01</field>
+		<field name="ubigeo">01</field>
 	</record>
 
 
