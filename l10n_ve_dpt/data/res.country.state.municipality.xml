@@ -1,18 +1,21 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 
 <odoo noupdate="1">
-	  	
+
+
 <record id="mun_ve_DTC_0101" model="res.country.state.municipality">
 	<field name="name">Bolivariano Libertador</field>
 	<field name="state_id" ref="est_ve_DTC" />
 	<field name="ubigeo">0101</field>
 </record>
 
+
 <record id="mun_ve_AMA_0201" model="res.country.state.municipality">
 	<field name="name">Autónomo Alto Orinoco</field>
 	<field name="state_id" ref="est_ve_AMA" />
 	<field name="ubigeo">0201</field>
 </record>
+
 
 <record id="mun_ve_AMA_0202" model="res.country.state.municipality">
 	<field name="name">Autónomo Atabapo</field>
