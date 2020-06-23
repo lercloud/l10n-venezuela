@@ -5,8 +5,11 @@ class ResPartner(models.Model):
 
     _inherit = "res.partner"
 
-    municipality_id = fields.Many2one("res.country.state.municipality", "Municipality")
-    parish_id = fields.Many2one("res.country.state.municipality.parish", "Parish")
+    municipality_id = fields.Many2one(
+        "res.country.state.municipality",
+        "Municipality")
+    parish_id = fields.Many2one(
+        "res.country.state.municipality.parish", "Parish")
 
     @api.model
     def _address_fields(self):
