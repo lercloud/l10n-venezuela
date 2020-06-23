@@ -1,7 +1,7 @@
 from odoo import api, fields, models
 
 
-class res_partner(models.Model):
+class ResPartner(models.Model):
 
     _inherit = "res.partner"
 
@@ -10,7 +10,7 @@ class res_partner(models.Model):
 
     @api.model
     def _address_fields(self):
-        address_fields = set(super(res_partner, self)._address_fields())
+        address_fields = set(super(ResPartner, self)._address_fields())
         address_fields.add("municipality_id")
         address_fields.add("parish_id")
         return list(address_fields)
