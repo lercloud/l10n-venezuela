@@ -1,5 +1,6 @@
 from odoo import api, fields, models
 
+
 class res_partner(models.Model):
 
     _inherit = "res.partner"
@@ -13,4 +14,3 @@ class res_partner(models.Model):
         address_fields.add("municipality_id")
         address_fields.add("parish_id")
         return list(address_fields)
-

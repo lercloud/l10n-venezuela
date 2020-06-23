@@ -3,6 +3,7 @@
 
 from odoo import api, fields, models
 
+
 class CountryState(models.Model):
     """ Add Municipalities reference in State """
     _name = "res.country.state"
@@ -46,4 +47,3 @@ class MunicipalityParish(models.Model):
     )
     name = fields.Char("Parish", required=True, help="Parish name")
     ubigeo = fields.Char(string="ubigeo code", size=6)
-    
