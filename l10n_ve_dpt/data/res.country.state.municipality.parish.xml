@@ -1,1005 +1,1005 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <odoo noupdate="0">
     <record id="par_ve_DTC_010101" model="res.country.state.municipality.parish">
-		<field name="name">Altagracia</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010101</field>
-	</record>
-	<record id="par_ve_DTC_010102" model="res.country.state.municipality.parish">
-		<field name="name">Antímano</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010102</field>
-	</record>
-	<record id="par_ve_DTC_010103" model="res.country.state.municipality.parish">
-		<field name="name">Candelaria</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010103</field>
-	</record>
-	<record id="par_ve_DTC_010104" model="res.country.state.municipality.parish">
-		<field name="name">Caricuao</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010104</field>
-	</record>
-	<record id="par_ve_DTC_010105" model="res.country.state.municipality.parish">
-		<field name="name">Catedral</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010105</field>
-	</record>
-	<record id="par_ve_DTC_010106" model="res.country.state.municipality.parish">
-		<field name="name">Coche</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010106</field>
-	</record>
-	<record id="par_ve_DTC_010107" model="res.country.state.municipality.parish">
-		<field name="name">El Junquito</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010107</field>
-	</record>
-	<record id="par_ve_DTC_010108" model="res.country.state.municipality.parish">
-		<field name="name">EL Paraíso</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010108</field>
-	</record>
-	<record id="par_ve_DTC_010109" model="res.country.state.municipality.parish">
-		<field name="name">El Recreo</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010109</field>
-	</record>
-	<record id="par_ve_DTC_010110" model="res.country.state.municipality.parish">
-		<field name="name">El Valle</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010110</field>
-	</record>
-	<record id="par_ve_DTC_010111" model="res.country.state.municipality.parish">
-		<field name="name">La Pastora</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010111</field>
-	</record>
-	<record id="par_ve_DTC_010112" model="res.country.state.municipality.parish">
-		<field name="name">La Vega</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010112</field>
-	</record>
-	<record id="par_ve_DTC_010113" model="res.country.state.municipality.parish">
-		<field name="name">Macarao</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010113</field>
-	</record>
-	<record id="par_ve_DTC_010114" model="res.country.state.municipality.parish">
-		<field name="name">San Agustín</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010114</field>
-	</record>
-	<record id="par_ve_DTC_010115" model="res.country.state.municipality.parish">
-		<field name="name">San Bernardino</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010115</field>
-	</record>
-	<record id="par_ve_DTC_010116" model="res.country.state.municipality.parish">
-		<field name="name">San José</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010116</field>
-	</record>
-	<record id="par_ve_DTC_010117" model="res.country.state.municipality.parish">
-		<field name="name">San Juan</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010117</field>
-	</record>
-	<record id="par_ve_DTC_010118" model="res.country.state.municipality.parish">
-		<field name="name">San Pedro</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010118</field>
-	</record>
-	<record id="par_ve_DTC_010119" model="res.country.state.municipality.parish">
-		<field name="name">Santa Rosalía</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010119</field>
-	</record>
-	<record id="par_ve_DTC_010120" model="res.country.state.municipality.parish">
-		<field name="name">Santa Teresa</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010120</field>
-	</record>
-	<record id="par_ve_DTC_010121" model="res.country.state.municipality.parish">
-		<field name="name">Sucre</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010121</field>
-	</record>
-	<record id="par_ve_DTC_010122" model="res.country.state.municipality.parish">
-		<field name="name">23 de Enero</field>
-		<field name="municipality_id" ref="mun_ve_DTC_0101" />
-		<field name="ubigeo">010122</field>
-	</record>
-	<record id="par_ve_AMA_020101" model="res.country.state.municipality.parish">
-		<field name="name">Huachamacare</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0201" />
-		<field name="ubigeo">020101</field>
-	</record>
-	<record id="par_ve_AMA_020102" model="res.country.state.municipality.parish">
-		<field name="name">Marawaka</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0201" />
-		<field name="ubigeo">020102</field>
-	</record>
-	<record id="par_ve_AMA_020103" model="res.country.state.municipality.parish">
-		<field name="name">Mavaca</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0201" />
-		<field name="ubigeo">020103</field>
-	</record>
-	<record id="par_ve_AMA_020104" model="res.country.state.municipality.parish">
-		<field name="name">Sierra Parima</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0201" />
-		<field name="ubigeo">020104</field>
-	</record>
-	<record id="par_ve_AMA_020201" model="res.country.state.municipality.parish">
-		<field name="name">Ucata</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0202" />
-		<field name="ubigeo">020201</field>
-	</record>
-	<record id="par_ve_AMA_020202" model="res.country.state.municipality.parish">
-		<field name="name">Yapacana</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0202" />
-		<field name="ubigeo">020202</field>
-	</record>
-	<record id="par_ve_AMA_020203" model="res.country.state.municipality.parish">
-		<field name="name">Caname</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0202" />
-		<field name="ubigeo">020203</field>
-	</record>
-	<record id="par_ve_AMA_020301" model="res.country.state.municipality.parish">
-		<field name="name">Fernando Girón Tovar</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0203" />
-		<field name="ubigeo">020301</field>
-	</record>
-	<record id="par_ve_AMA_020302" model="res.country.state.municipality.parish">
-		<field name="name">Luis Alberto Gómez</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0203" />
-		<field name="ubigeo">020302</field>
-	</record>
-	<record id="par_ve_AMA_020303" model="res.country.state.municipality.parish">
-		<field name="name">Parhueña</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0203" />
-		<field name="ubigeo">020303</field>
-	</record>
-	<record id="par_ve_AMA_020304" model="res.country.state.municipality.parish">
-		<field name="name">Platanillal</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0203" />
-		<field name="ubigeo">020304</field>
-	</record>
-	<record id="par_ve_AMA_020401" model="res.country.state.municipality.parish">
-		<field name="name">Samariapo</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0204" />
-		<field name="ubigeo">020401</field>
-	</record>
-	<record id="par_ve_AMA_020402" model="res.country.state.municipality.parish">
-		<field name="name">Sipapo</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0204" />
-		<field name="ubigeo">020402</field>
-	</record>
-	<record id="par_ve_AMA_020403" model="res.country.state.municipality.parish">
-		<field name="name">Munduapo</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0204" />
-		<field name="ubigeo">020403</field>
-	</record>
-	<record id="par_ve_AMA_020404" model="res.country.state.municipality.parish">
-		<field name="name">Guayapo</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0204" />
-		<field name="ubigeo">020404</field>
-	</record>
-	<record id="par_ve_AMA_020501" model="res.country.state.municipality.parish">
-		<field name="name">Victorino</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0205" />
-		<field name="ubigeo">020501</field>
-	</record>
-	<record id="par_ve_AMA_020502" model="res.country.state.municipality.parish">
-		<field name="name">Comunidad</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0205" />
-		<field name="ubigeo">020502</field>
-	</record>
-	<record id="par_ve_AMA_020601" model="res.country.state.municipality.parish">
-		<field name="name">Alto Ventuari</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0206" />
-		<field name="ubigeo">020601</field>
-	</record>
-	<record id="par_ve_AMA_020602" model="res.country.state.municipality.parish">
-		<field name="name">Medio Ventuari</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0206" />
-		<field name="ubigeo">020602</field>
-	</record>
-	<record id="par_ve_AMA_020603" model="res.country.state.municipality.parish">
-		<field name="name">Bajo Ventuari</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0206" />
-		<field name="ubigeo">020603</field>
-	</record>
-	<record id="par_ve_AMA_020701" model="res.country.state.municipality.parish">
-		<field name="name">Solano</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0207" />
-		<field name="ubigeo">020701</field>
-	</record>
-	<record id="par_ve_AMA_020702" model="res.country.state.municipality.parish">
-		<field name="name">Casiquiare</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0207" />
-		<field name="ubigeo">020702</field>
-	</record>
-	<record id="par_ve_AMA_020703" model="res.country.state.municipality.parish">
-		<field name="name">Cocuy</field>
-		<field name="municipality_id" ref="mun_ve_AMA_0207" />
-		<field name="ubigeo">020703</field>
-	</record>
-	<record id="par_ve_ANZ_030101" model="res.country.state.municipality.parish">
-		<field name="name">Capital Anaco</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0301" />
-		<field name="ubigeo">030101</field>
-	</record>
-	<record id="par_ve_ANZ_030102" model="res.country.state.municipality.parish">
-		<field name="name">San Joaquín</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0301" />
-		<field name="ubigeo">030102</field>
-	</record>
-	<record id="par_ve_ANZ_030103" model="res.country.state.municipality.parish">
-		<field name="name">Buena vista</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0301" />
-		<field name="ubigeo">030103</field>
-	</record>
-	<record id="par_ve_ANZ_030201" model="res.country.state.municipality.parish">
-		<field name="name">Capital Aragua</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0302" />
-		<field name="ubigeo">030201</field>
-	</record>
-	<record id="par_ve_ANZ_030202" model="res.country.state.municipality.parish">
-		<field name="name">Cachipo</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0302" />
-		<field name="ubigeo">030202</field>
-	</record>
-	<record id="par_ve_ANZ_030301" model="res.country.state.municipality.parish">
-		<field name="name">Capital Fernando de Peñalver</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0303" />
-		<field name="ubigeo">030301</field>
-	</record>
-	<record id="par_ve_ANZ_030302" model="res.country.state.municipality.parish">
-		<field name="name">San Miguel</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0303" />
-		<field name="ubigeo">030302</field>
-	</record>
-	<record id="par_ve_ANZ_030303" model="res.country.state.municipality.parish">
-		<field name="name">Sucre</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0303" />
-		<field name="ubigeo">030303</field>
-	</record>
-	<record id="par_ve_ANZ_030401" model="res.country.state.municipality.parish">
-		<field name="name">Capital Francisco del Carmen Carvajal</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0304" />
-		<field name="ubigeo">030401</field>
-	</record>
-	<record id="par_ve_ANZ_030402" model="res.country.state.municipality.parish">
-		<field name="name">Santa Bárbara</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0304" />
-		<field name="ubigeo">030402</field>
-	</record>
-	<record id="par_ve_ANZ_030501" model="res.country.state.municipality.parish">
-		<field name="name">Capital Francisco de Miranda</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0305" />
-		<field name="ubigeo">030501</field>
-	</record>
-	<record id="par_ve_ANZ_030502" model="res.country.state.municipality.parish">
-		<field name="name">Atapirire</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0305" />
-		<field name="ubigeo">030502</field>
-	</record>
-	<record id="par_ve_ANZ_030503" model="res.country.state.municipality.parish">
-		<field name="name">Boca del Pao</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0305" />
-		<field name="ubigeo">030503</field>
-	</record>
-	<record id="par_ve_ANZ_030504" model="res.country.state.municipality.parish">
-		<field name="name">El Pao</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0305" />
-		<field name="ubigeo">030504</field>
-	</record>
-	<record id="par_ve_ANZ_030505" model="res.country.state.municipality.parish">
-		<field name="name">Múcura</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0305" />
-		<field name="ubigeo">030505</field>
-	</record>
-	<record id="par_ve_ANZ_030601" model="res.country.state.municipality.parish">
-		<field name="name">Capital Guanta</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0306" />
-		<field name="ubigeo">030601</field>
-	</record>
-	<record id="par_ve_ANZ_030602" model="res.country.state.municipality.parish">
-		<field name="name">Chorrerón</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0306" />
-		<field name="ubigeo">030602</field>
-	</record>
-	<record id="par_ve_ANZ_030701" model="res.country.state.municipality.parish">
-		<field name="name">Capital Independencia</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0307" />
-		<field name="ubigeo">030701</field>
-	</record>
-	<record id="par_ve_ANZ_030702" model="res.country.state.municipality.parish">
-		<field name="name">Mamo</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0307" />
-		<field name="ubigeo">030702</field>
-	</record>
-	<record id="par_ve_ANZ_030801" model="res.country.state.municipality.parish">
-		<field name="name">Capital Puerto La Cruz</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0308" />
-		<field name="ubigeo">030801</field>
-	</record>
-	<record id="par_ve_ANZ_030802" model="res.country.state.municipality.parish">
-		<field name="name">Pozuelos</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0308" />
-		<field name="ubigeo">030802</field>
-	</record>
-	<record id="par_ve_ANZ_030901" model="res.country.state.municipality.parish">
-		<field name="name">Capital Juan Manuel Cajigal</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0309" />
-		<field name="ubigeo">030901</field>
-	</record>
-	<record id="par_ve_ANZ_030902" model="res.country.state.municipality.parish">
-		<field name="name">San Pablo</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0309" />
-		<field name="ubigeo">030902</field>
-	</record>
-	<record id="par_ve_ANZ_031001" model="res.country.state.municipality.parish">
-		<field name="name">Capital José Gregorio Monagas</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0310" />
-		<field name="ubigeo">031001</field>
-	</record>
-	<record id="par_ve_ANZ_031002" model="res.country.state.municipality.parish">
-		<field name="name">Piar</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0310" />
-		<field name="ubigeo">031002</field>
-	</record>
-	<record id="par_ve_ANZ_031003" model="res.country.state.municipality.parish">
-		<field name="name">San Diego de Cabrutica</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0310" />
-		<field name="ubigeo">031003</field>
-	</record>
-	<record id="par_ve_ANZ_031004" model="res.country.state.municipality.parish">
-		<field name="name">Santa Clara</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0310" />
-		<field name="ubigeo">031004</field>
-	</record>
-	<record id="par_ve_ANZ_031005" model="res.country.state.municipality.parish">
-		<field name="name">Uverito</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0310" />
-		<field name="ubigeo">031005</field>
-	</record>
-	<record id="par_ve_ANZ_031006" model="res.country.state.municipality.parish">
-		<field name="name">Zuata</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0310" />
-		<field name="ubigeo">031006</field>
-	</record>
-	<record id="par_ve_ANZ_031101" model="res.country.state.municipality.parish">
-		<field name="name">Capital Libertad</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0311" />
-		<field name="ubigeo">031101</field>
-	</record>
-	<record id="par_ve_ANZ_031102" model="res.country.state.municipality.parish">
-		<field name="name">El Carito</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0311" />
-		<field name="ubigeo">031102</field>
-	</record>
-	<record id="par_ve_ANZ_031103" model="res.country.state.municipality.parish">
-		<field name="name">Santa Inés</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0311" />
-		<field name="ubigeo">031103</field>
-	</record>
-	<record id="par_ve_ANZ_031201" model="res.country.state.municipality.parish">
-		<field name="name">Capital Manuel Ezequiel Bruzual</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0312" />
-		<field name="ubigeo">031201</field>
-	</record>
-	<record id="par_ve_ANZ_031202" model="res.country.state.municipality.parish">
-		<field name="name">Guanape</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0312" />
-		<field name="ubigeo">031202</field>
-	</record>
-	<record id="par_ve_ANZ_031203" model="res.country.state.municipality.parish">
-		<field name="name">Sabana de Uchire</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0312" />
-		<field name="ubigeo">031203</field>
-	</record>
-	<record id="par_ve_ANZ_031301" model="res.country.state.municipality.parish">
-		<field name="name">Capital Pedro María Fréites</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0313" />
-		<field name="ubigeo">031301</field>
-	</record>
-	<record id="par_ve_ANZ_031302" model="res.country.state.municipality.parish">
-		<field name="name">Libertador</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0313" />
-		<field name="ubigeo">031302</field>
-	</record>
-	<record id="par_ve_ANZ_031303" model="res.country.state.municipality.parish">
-		<field name="name">Santa Rosa</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0313" />
-		<field name="ubigeo">031303</field>
-	</record>
-	<record id="par_ve_ANZ_031304" model="res.country.state.municipality.parish">
-		<field name="name">Urica</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0313" />
-		<field name="ubigeo">031304</field>
-	</record>
-	<record id="par_ve_ANZ_031401" model="res.country.state.municipality.parish">
-		<field name="name">Capital Píritu</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0314" />
-		<field name="ubigeo">031401</field>
-	</record>
-	<record id="par_ve_ANZ_031402" model="res.country.state.municipality.parish">
-		<field name="name">San Francisco</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0314" />
-		<field name="ubigeo">031402</field>
-	</record>
-	<record id="par_ve_ANZ_031501" model="res.country.state.municipality.parish">
-		<field name="name">No Tiene Parroquia</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0315" />
-		<field name="ubigeo">031501</field>
-	</record>
-	<record id="par_ve_ANZ_031601" model="res.country.state.municipality.parish">
-		<field name="name">Capital San Juan de Capistrano</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0316" />
-		<field name="ubigeo">031601</field>
-	</record>
-	<record id="par_ve_ANZ_031602" model="res.country.state.municipality.parish">
-		<field name="name">Boca de Chávez</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0316" />
-		<field name="ubigeo">031602</field>
-	</record>
-	<record id="par_ve_ANZ_031701" model="res.country.state.municipality.parish">
-		<field name="name">Capital Santa Ana</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0317" />
-		<field name="ubigeo">031701</field>
-	</record>
-	<record id="par_ve_ANZ_031702" model="res.country.state.municipality.parish">
-		<field name="name">Pueblo Nuevo</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0317" />
-		<field name="ubigeo">031702</field>
-	</record>
-	<record id="par_ve_ANZ_031801" model="res.country.state.municipality.parish">
-		<field name="name">El Carmen</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0318" />
-		<field name="ubigeo">031801</field>
-	</record>
-	<record id="par_ve_ANZ_031802" model="res.country.state.municipality.parish">
-		<field name="name">San Cristóbal</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0318" />
-		<field name="ubigeo">031802</field>
-	</record>
-	<record id="par_ve_ANZ_031803" model="res.country.state.municipality.parish">
-		<field name="name">Bergantín</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0318" />
-		<field name="ubigeo">031803</field>
-	</record>
-	<record id="par_ve_ANZ_031804" model="res.country.state.municipality.parish">
-		<field name="name">Caigua</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0318" />
-		<field name="ubigeo">031804</field>
-	</record>
-	<record id="par_ve_ANZ_031805" model="res.country.state.municipality.parish">
-		<field name="name">El Pilar</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0318" />
-		<field name="ubigeo">031805</field>
-	</record>
-	<record id="par_ve_ANZ_031806" model="res.country.state.municipality.parish">
-		<field name="name">Naricual</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0318" />
-		<field name="ubigeo">031806</field>
-	</record>
-	<record id="par_ve_ANZ_031901" model="res.country.state.municipality.parish">
-		<field name="name">Edmundo Barrios</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0319" />
-		<field name="ubigeo">031901</field>
-	</record>
-	<record id="par_ve_ANZ_031902" model="res.country.state.municipality.parish">
-		<field name="name">Miguel Otero Silva</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0319" />
-		<field name="ubigeo">031902</field>
-	</record>
-	<record id="par_ve_ANZ_032001" model="res.country.state.municipality.parish">
-		<field name="name">Capital Sir Arthur Mc Gregor</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0320" />
-		<field name="ubigeo">032001</field>
-	</record>
-	<record id="par_ve_ANZ_032002" model="res.country.state.municipality.parish">
-		<field name="name">Tomás Alfaro Calatrava</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0320" />
-		<field name="ubigeo">032002</field>
-	</record>
-	<record id="par_ve_ANZ_032101" model="res.country.state.municipality.parish">
-		<field name="name">Capital Diego Bautista Urbaneja</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0321" />
-		<field name="ubigeo">032101</field>
-	</record>
-	<record id="par_ve_ANZ_032102" model="res.country.state.municipality.parish">
-		<field name="name">El Morro</field>
-		<field name="municipality_id" ref="mun_ve_ANZ_0321" />
-		<field name="ubigeo">032102</field>
-	</record>
-	<record id="par_ve_APU_040101" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Achaguas</field>
-		<field name="municipality_id" ref="mun_ve_APU_0401" />
-		<field name="ubigeo">040101</field>
-	</record>
-	<record id="par_ve_APU_040102" model="res.country.state.municipality.parish">
-		<field name="name">Apurito</field>
-		<field name="municipality_id" ref="mun_ve_APU_0401" />
-		<field name="ubigeo">040102</field>
-	</record>
-	<record id="par_ve_APU_040103" model="res.country.state.municipality.parish">
-		<field name="name">El Yagual</field>
-		<field name="municipality_id" ref="mun_ve_APU_0401" />
-		<field name="ubigeo">040103</field>
-	</record>
-	<record id="par_ve_APU_040104" model="res.country.state.municipality.parish">
-		<field name="name">Guachara</field>
-		<field name="municipality_id" ref="mun_ve_APU_0401" />
-		<field name="ubigeo">040104</field>
-	</record>
-	<record id="par_ve_APU_040105" model="res.country.state.municipality.parish">
-		<field name="name">Mucuritas</field>
-		<field name="municipality_id" ref="mun_ve_APU_0401" />
-		<field name="ubigeo">040105</field>
-	</record>
-	<record id="par_ve_APU_040106" model="res.country.state.municipality.parish">
-		<field name="name">Queseras del Medio</field>
-		<field name="municipality_id" ref="mun_ve_APU_0401" />
-		<field name="ubigeo">040106</field>
-	</record>
-	<record id="par_ve_APU_040201" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Biruaca</field>
-		<field name="municipality_id" ref="mun_ve_APU_0402" />
-		<field name="ubigeo">040201</field>
-	</record>
-	<record id="par_ve_APU_040301" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Bruzual</field>
-		<field name="municipality_id" ref="mun_ve_APU_0403" />
-		<field name="ubigeo">040301</field>
-	</record>
-	<record id="par_ve_APU_040302" model="res.country.state.municipality.parish">
-		<field name="name">Mantecal</field>
-		<field name="municipality_id" ref="mun_ve_APU_0403" />
-		<field name="ubigeo">040302</field>
-	</record>
-	<record id="par_ve_APU_040303" model="res.country.state.municipality.parish">
-		<field name="name">Quintero</field>
-		<field name="municipality_id" ref="mun_ve_APU_0403" />
-		<field name="ubigeo">040303</field>
-	</record>
-	<record id="par_ve_APU_040304" model="res.country.state.municipality.parish">
-		<field name="name">Rincón Hondo</field>
-		<field name="municipality_id" ref="mun_ve_APU_0403" />
-		<field name="ubigeo">040304</field>
-	</record>
-	<record id="par_ve_APU_040305" model="res.country.state.municipality.parish">
-		<field name="name">San Vicente</field>
-		<field name="municipality_id" ref="mun_ve_APU_0403" />
-		<field name="ubigeo">040305</field>
-	</record>
-	<record id="par_ve_APU_040401" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Guasdualito</field>
-		<field name="municipality_id" ref="mun_ve_APU_0404" />
-		<field name="ubigeo">040401</field>
-	</record>
-	<record id="par_ve_APU_040402" model="res.country.state.municipality.parish">
-		<field name="name">Aramendi</field>
-		<field name="municipality_id" ref="mun_ve_APU_0404" />
-		<field name="ubigeo">040402</field>
-	</record>
-	<record id="par_ve_APU_040403" model="res.country.state.municipality.parish">
-		<field name="name">El Amparo</field>
-		<field name="municipality_id" ref="mun_ve_APU_0404" />
-		<field name="ubigeo">040403</field>
-	</record>
-	<record id="par_ve_APU_040404" model="res.country.state.municipality.parish">
-		<field name="name">San Camilo</field>
-		<field name="municipality_id" ref="mun_ve_APU_0404" />
-		<field name="ubigeo">040404</field>
-	</record>
-	<record id="par_ve_APU_040405" model="res.country.state.municipality.parish">
-		<field name="name">Urdaneta</field>
-		<field name="municipality_id" ref="mun_ve_APU_0404" />
-		<field name="ubigeo">040405</field>
-	</record>
-	<record id="par_ve_APU_040501" model="res.country.state.municipality.parish">
-		<field name="name">Urbana San Juan de Payara</field>
-		<field name="municipality_id" ref="mun_ve_APU_0405" />
-		<field name="ubigeo">040501</field>
-	</record>
-	<record id="par_ve_APU_040502" model="res.country.state.municipality.parish">
-		<field name="name">Codazzi</field>
-		<field name="municipality_id" ref="mun_ve_APU_0405" />
-		<field name="ubigeo">040502</field>
-	</record>
-	<record id="par_ve_APU_040503" model="res.country.state.municipality.parish">
-		<field name="name">Cunaviche</field>
-		<field name="municipality_id" ref="mun_ve_APU_0405" />
-		<field name="ubigeo">040503</field>
-	</record>
-	<record id="par_ve_APU_040601" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Elorza</field>
-		<field name="municipality_id" ref="mun_ve_APU_0406" />
-		<field name="ubigeo">040601</field>
-	</record>
-	<record id="par_ve_APU_040602" model="res.country.state.municipality.parish">
-		<field name="name">La Trinidad</field>
-		<field name="municipality_id" ref="mun_ve_APU_0406" />
-		<field name="ubigeo">040602</field>
-	</record>
-	<record id="par_ve_APU_040701" model="res.country.state.municipality.parish">
-		<field name="name">Urbana San Fernando</field>
-		<field name="municipality_id" ref="mun_ve_APU_0407" />
-		<field name="ubigeo">040701</field>
-	</record>
-	<record id="par_ve_APU_040702" model="res.country.state.municipality.parish">
-		<field name="name">El Recreo</field>
-		<field name="municipality_id" ref="mun_ve_APU_0407" />
-		<field name="ubigeo">040702</field>
-	</record>
-	<record id="par_ve_APU_040703" model="res.country.state.municipality.parish">
-		<field name="name">Peñalver</field>
-		<field name="municipality_id" ref="mun_ve_APU_0407" />
-		<field name="ubigeo">040703</field>
-	</record>
-	<record id="par_ve_APU_040704" model="res.country.state.municipality.parish">
-		<field name="name">San Rafael de Atamaica</field>
-		<field name="municipality_id" ref="mun_ve_APU_0407" />
-		<field name="ubigeo">040704</field>
-	</record>
-	<record id="par_ve_ARA_050101" model="res.country.state.municipality.parish">
-		<field name="name">No Tiene Parroquia</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0501" />
-		<field name="ubigeo">050101</field>
-	</record>
-	<record id="par_ve_ARA_050201" model="res.country.state.municipality.parish">
-		<field name="name">Camatagua</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0502" />
-		<field name="ubigeo">050201</field>
-	</record>
-	<record id="par_ve_ARA_050202" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Carmen de Cura</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0502" />
-		<field name="ubigeo">050202</field>
-	</record>
-	<record id="par_ve_ARA_050302" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Choroní</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0503" />
-		<field name="ubigeo">050302</field>
-	</record>
-	<record id="par_ve_ARA_050303" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Las Delicias</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0503" />
-		<field name="ubigeo">050303</field>
-	</record>
-	<record id="par_ve_ARA_050304" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Madre María de San José</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0503" />
-		<field name="ubigeo">050304</field>
-	</record>
-	<record id="par_ve_ARA_050305" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Joaquín Crespo</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0503" />
-		<field name="ubigeo">050305</field>
-	</record>
-	<record id="par_ve_ARA_050306" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Pedro José Ovalles</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0503" />
-		<field name="ubigeo">050306</field>
-	</record>
-	<record id="par_ve_ARA_050307" model="res.country.state.municipality.parish">
-		<field name="name">Urbana José Casanova Godoy</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0503" />
-		<field name="ubigeo">050307</field>
-	</record>
-	<record id="par_ve_ARA_050308" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Andrés Eloy Blanco</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0503" />
-		<field name="ubigeo">050308</field>
-	</record>
-	<record id="par_ve_ARA_050309" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Los Tacariguas</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0503" />
-		<field name="ubigeo">050309</field>
-	</record>
-	<record id="par_ve_ARA_050401" model="res.country.state.municipality.parish">
-		<field name="name">No Tiene Parroquia</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0504" />
-		<field name="ubigeo">050401</field>
-	</record>
-	<record id="par_ve_ARA_050501" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Juan Vicente Bolívar y Ponte</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0505" />
-		<field name="ubigeo">050501</field>
-	</record>
-	<record id="par_ve_ARA_050502" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Castor Nieves Ríos</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0505" />
-		<field name="ubigeo">050502</field>
-	</record>
-	<record id="par_ve_ARA_050503" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Las Guacamayas</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0505" />
-		<field name="ubigeo">050503</field>
-	</record>
-	<record id="par_ve_ARA_050504" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Pao de Zárate</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0505" />
-		<field name="ubigeo">050504</field>
-	</record>
-	<record id="par_ve_ARA_050505" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Zuata</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0505" />
-		<field name="ubigeo">050505</field>
-	</record>
-	<record id="par_ve_ARA_050601" model="res.country.state.municipality.parish">
-		<field name="name">No Tiene Parroquia</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0506" />
-		<field name="ubigeo">050601</field>
-	</record>
-	<record id="par_ve_ARA_050701" model="res.country.state.municipality.parish">
-		<field name="name">Libertador</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0507" />
-		<field name="ubigeo">050701</field>
-	</record>
-	<record id="par_ve_ARA_050702" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana San Martín de Porres</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0507" />
-		<field name="ubigeo">050702</field>
-	</record>
-	<record id="par_ve_ARA_050801" model="res.country.state.municipality.parish">
-		<field name="name">Mario Briceño Iragorry</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0508" />
-		<field name="ubigeo">050801</field>
-	</record>
-	<record id="par_ve_ARA_050802" model="res.country.state.municipality.parish">
-		<field name="name">Urbana Caña de Azúcar</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0508" />
-		<field name="ubigeo">050802</field>
-	</record>
-	<record id="par_ve_ARA_050901" model="res.country.state.municipality.parish">
-		<field name="name">San Casimiro</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0509" />
-		<field name="ubigeo">050901</field>
-	</record>
-	<record id="par_ve_ARA_050902" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Güiripa</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0509" />
-		<field name="ubigeo">050902</field>
-	</record>
-	<record id="par_ve_ARA_050903" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Ollas de Caramacate</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0509" />
-		<field name="ubigeo">050903</field>
-	</record>
-	<record id="par_ve_ARA_050904" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Valle Morín</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0509" />
-		<field name="ubigeo">050904</field>
-	</record>
-	<record id="par_ve_ARA_051001" model="res.country.state.municipality.parish">
-		<field name="name">No Tiene Parroquia</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0510" />
-		<field name="ubigeo">051001</field>
-	</record>
-	<record id="par_ve_ARA_051101" model="res.country.state.municipality.parish">
-		<field name="name">Santiago Mariño</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0511" />
-		<field name="ubigeo">051101</field>
-	</record>
-	<record id="par_ve_ARA_051102" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Arévalo Aponte</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0511" />
-		<field name="ubigeo">051102</field>
-	</record>
-	<record id="par_ve_ARA_051103" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Chuao</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0511" />
-		<field name="ubigeo">051103</field>
-	</record>
-	<record id="par_ve_ARA_051104" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Samán de Güere</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0511" />
-		<field name="ubigeo">051104</field>
-	</record>
-	<record id="par_ve_ARA_051105" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Alfredo Pacheco Miranda</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0511" />
-		<field name="ubigeo">051105</field>
-	</record>
-	<record id="par_ve_ARA_051201" model="res.country.state.municipality.parish">
-		<field name="name">Santos Michelena</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0512" />
-		<field name="ubigeo">051201</field>
-	</record>
-	<record id="par_ve_ARA_051202" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Tiara</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0512" />
-		<field name="ubigeo">051202</field>
-	</record>
-	<record id="par_ve_ARA_051301" model="res.country.state.municipality.parish">
-		<field name="name">Sucre</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0513" />
-		<field name="ubigeo">051301</field>
-	</record>
-	<record id="par_ve_ARA_051302" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Bella Vista</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0513" />
-		<field name="ubigeo">051302</field>
-	</record>
-	<record id="par_ve_ARA_051401" model="res.country.state.municipality.parish">
-		<field name="name">No Tiene Parroquia</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0514" />
-		<field name="ubigeo">051401</field>
-	</record>
-	<record id="par_ve_ARA_051501" model="res.country.state.municipality.parish">
-		<field name="name">Urdaneta</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0515" />
-		<field name="ubigeo">051501</field>
-	</record>
-	<record id="par_ve_ARA_051502" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Las Peñitas</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0515" />
-		<field name="ubigeo">051502</field>
-	</record>
-	<record id="par_ve_ARA_051503" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana San Francisco de Cara</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0515" />
-		<field name="ubigeo">051503</field>
-	</record>
-	<record id="par_ve_ARA_051504" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Taguay</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0515" />
-		<field name="ubigeo">051504</field>
-	</record>
-	<record id="par_ve_ARA_051601" model="res.country.state.municipality.parish">
-		<field name="name">Zamora</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0516" />
-		<field name="ubigeo">051601</field>
-	</record>
-	<record id="par_ve_ARA_051602" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Magdaleno</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0516" />
-		<field name="ubigeo">051602</field>
-	</record>
-	<record id="par_ve_ARA_051603" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana San Francisco de Asís</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0516" />
-		<field name="ubigeo">051603</field>
-	</record>
-	<record id="par_ve_ARA_051604" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Valles de Tucutunemo</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0516" />
-		<field name="ubigeo">051604</field>
-	</record>
-	<record id="par_ve_ARA_051605" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Augusto Mijares</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0516" />
-		<field name="ubigeo">051605</field>
-	</record>
-	<record id="par_ve_ARA_051701" model="res.country.state.municipality.parish">
-		<field name="name">Francisco Linares Alcántara</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0517" />
-		<field name="ubigeo">051701</field>
-	</record>
-	<record id="par_ve_ARA_051702" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Francisco de Miranda</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0517" />
-		<field name="ubigeo">051702</field>
-	</record>
-	<record id="par_ve_ARA_051703" model="res.country.state.municipality.parish">
-		<field name="name">No Urbana Monseñor Feliciano González</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0517" />
-		<field name="ubigeo">051703</field>
-	</record>
-	<record id="par_ve_ARA_051801" model="res.country.state.municipality.parish">
-		<field name="name">No Tiene Parroquia</field>
-		<field name="municipality_id" ref="mun_ve_ARA_0518" />
-		<field name="ubigeo">051801</field>
-	</record>
-	<record id="par_ve_BAR_060101" model="res.country.state.municipality.parish">
-		<field name="name">Sabaneta</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0601" />
-		<field name="ubigeo">060101</field>
-	</record>
-	<record id="par_ve_BAR_060102" model="res.country.state.municipality.parish">
-		<field name="name">Rodríguez Domínguez</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0601" />
-		<field name="ubigeo">060102</field>
-	</record>
-	<record id="par_ve_BAR_060201" model="res.country.state.municipality.parish">
-		<field name="name">Ticoporo</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0602" />
-		<field name="ubigeo">060201</field>
-	</record>
-	<record id="par_ve_BAR_060202" model="res.country.state.municipality.parish">
-		<field name="name">Andrés Bello</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0602" />
-		<field name="ubigeo">060202</field>
-	</record>
-	<record id="par_ve_BAR_060203" model="res.country.state.municipality.parish">
-		<field name="name">Nicolás Pulido</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0602" />
-		<field name="ubigeo">060203</field>
-	</record>
-	<record id="par_ve_BAR_060301" model="res.country.state.municipality.parish">
-		<field name="name">Arismendi</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0603" />
-		<field name="ubigeo">060301</field>
-	</record>
-	<record id="par_ve_BAR_060302" model="res.country.state.municipality.parish">
-		<field name="name">Guadarrama</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0603" />
-		<field name="ubigeo">060302</field>
-	</record>
-	<record id="par_ve_BAR_060303" model="res.country.state.municipality.parish">
-		<field name="name">La Unión</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0603" />
-		<field name="ubigeo">060303</field>
-	</record>
-	<record id="par_ve_BAR_060304" model="res.country.state.municipality.parish">
-		<field name="name">San Antonio</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0603" />
-		<field name="ubigeo">060304</field>
-	</record>
-	<record id="par_ve_BAR_060401" model="res.country.state.municipality.parish">
-		<field name="name">Barinas</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0604" />
-		<field name="ubigeo">060401</field>
-	</record>
-	<record id="par_ve_BAR_060402" model="res.country.state.municipality.parish">
-		<field name="name">Alfredo Arvelo Larriva</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0604" />
-		<field name="ubigeo">060402</field>
-	</record>
-	<record id="par_ve_BAR_060403" model="res.country.state.municipality.parish">
-		<field name="name">San Silvestre</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0604" />
-		<field name="ubigeo">060403</field>
-	</record>
-	<record id="par_ve_BAR_060404" model="res.country.state.municipality.parish">
-		<field name="name">Santa Inés</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0604" />
-		<field name="ubigeo">060404</field>
-	</record>
-	<record id="par_ve_BAR_060405" model="res.country.state.municipality.parish">
-		<field name="name">Santa Lucía</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0604" />
-		<field name="ubigeo">060405</field>
-	</record>
-	<record id="par_ve_BAR_060406" model="res.country.state.municipality.parish">
-		<field name="name">Torunos</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0604" />
-		<field name="ubigeo">060406</field>
-	</record>
-	<record id="par_ve_BAR_060407" model="res.country.state.municipality.parish">
-		<field name="name">El Carmen</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0604" />
-		<field name="ubigeo">060407</field>
-	</record>
-	<record id="par_ve_BAR_060408" model="res.country.state.municipality.parish">
-		<field name="name">Rómulo Betancourt</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0604" />
-		<field name="ubigeo">060408</field>
-	</record>
-	<record id="par_ve_BAR_060409" model="res.country.state.municipality.parish">
-		<field name="name">Corazón de Jesús</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0604" />
-		<field name="ubigeo">060409</field>
-	</record>
-	<record id="par_ve_BAR_060410" model="res.country.state.municipality.parish">
-		<field name="name">Ramón Ignacio Méndez</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0604" />
-		<field name="ubigeo">060410</field>
-	</record>
-	<record id="par_ve_BAR_060411" model="res.country.state.municipality.parish">
-		<field name="name">Alto Barinas</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0604" />
-		<field name="ubigeo">060411</field>
-	</record>
-	<record id="par_ve_BAR_060412" model="res.country.state.municipality.parish">
-		<field name="name">Manuel Palacio Fajardo</field>
-		<field name="municipality_id" ref="mun_ve_BAR_0604" />
-		<field name="ubigeo">060412</field>
-	</record>
+        <field name="name">Altagracia</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010101</field>
+    </record>
+    <record id="par_ve_DTC_010102" model="res.country.state.municipality.parish">
+        <field name="name">Antímano</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010102</field>
+    </record>
+    <record id="par_ve_DTC_010103" model="res.country.state.municipality.parish">
+        <field name="name">Candelaria</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010103</field>
+    </record>
+    <record id="par_ve_DTC_010104" model="res.country.state.municipality.parish">
+        <field name="name">Caricuao</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010104</field>
+    </record>
+    <record id="par_ve_DTC_010105" model="res.country.state.municipality.parish">
+        <field name="name">Catedral</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010105</field>
+    </record>
+    <record id="par_ve_DTC_010106" model="res.country.state.municipality.parish">
+        <field name="name">Coche</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010106</field>
+    </record>
+    <record id="par_ve_DTC_010107" model="res.country.state.municipality.parish">
+        <field name="name">El Junquito</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010107</field>
+    </record>
+    <record id="par_ve_DTC_010108" model="res.country.state.municipality.parish">
+        <field name="name">EL Paraíso</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010108</field>
+    </record>
+    <record id="par_ve_DTC_010109" model="res.country.state.municipality.parish">
+        <field name="name">El Recreo</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010109</field>
+    </record>
+    <record id="par_ve_DTC_010110" model="res.country.state.municipality.parish">
+        <field name="name">El Valle</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010110</field>
+    </record>
+    <record id="par_ve_DTC_010111" model="res.country.state.municipality.parish">
+        <field name="name">La Pastora</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010111</field>
+    </record>
+    <record id="par_ve_DTC_010112" model="res.country.state.municipality.parish">
+        <field name="name">La Vega</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010112</field>
+    </record>
+    <record id="par_ve_DTC_010113" model="res.country.state.municipality.parish">
+        <field name="name">Macarao</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010113</field>
+    </record>
+    <record id="par_ve_DTC_010114" model="res.country.state.municipality.parish">
+        <field name="name">San Agustín</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010114</field>
+    </record>
+    <record id="par_ve_DTC_010115" model="res.country.state.municipality.parish">
+        <field name="name">San Bernardino</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010115</field>
+    </record>
+    <record id="par_ve_DTC_010116" model="res.country.state.municipality.parish">
+        <field name="name">San José</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010116</field>
+    </record>
+    <record id="par_ve_DTC_010117" model="res.country.state.municipality.parish">
+        <field name="name">San Juan</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010117</field>
+    </record>
+    <record id="par_ve_DTC_010118" model="res.country.state.municipality.parish">
+        <field name="name">San Pedro</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010118</field>
+    </record>
+    <record id="par_ve_DTC_010119" model="res.country.state.municipality.parish">
+        <field name="name">Santa Rosalía</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010119</field>
+    </record>
+    <record id="par_ve_DTC_010120" model="res.country.state.municipality.parish">
+        <field name="name">Santa Teresa</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010120</field>
+    </record>
+    <record id="par_ve_DTC_010121" model="res.country.state.municipality.parish">
+        <field name="name">Sucre</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010121</field>
+    </record>
+    <record id="par_ve_DTC_010122" model="res.country.state.municipality.parish">
+        <field name="name">23 de Enero</field>
+        <field name="municipality_id" ref="mun_ve_DTC_0101" />
+        <field name="ubigeo">010122</field>
+    </record>
+    <record id="par_ve_AMA_020101" model="res.country.state.municipality.parish">
+        <field name="name">Huachamacare</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0201" />
+        <field name="ubigeo">020101</field>
+    </record>
+    <record id="par_ve_AMA_020102" model="res.country.state.municipality.parish">
+        <field name="name">Marawaka</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0201" />
+        <field name="ubigeo">020102</field>
+    </record>
+    <record id="par_ve_AMA_020103" model="res.country.state.municipality.parish">
+        <field name="name">Mavaca</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0201" />
+        <field name="ubigeo">020103</field>
+    </record>
+    <record id="par_ve_AMA_020104" model="res.country.state.municipality.parish">
+        <field name="name">Sierra Parima</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0201" />
+        <field name="ubigeo">020104</field>
+    </record>
+    <record id="par_ve_AMA_020201" model="res.country.state.municipality.parish">
+        <field name="name">Ucata</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0202" />
+        <field name="ubigeo">020201</field>
+    </record>
+    <record id="par_ve_AMA_020202" model="res.country.state.municipality.parish">
+        <field name="name">Yapacana</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0202" />
+        <field name="ubigeo">020202</field>
+    </record>
+    <record id="par_ve_AMA_020203" model="res.country.state.municipality.parish">
+        <field name="name">Caname</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0202" />
+        <field name="ubigeo">020203</field>
+    </record>
+    <record id="par_ve_AMA_020301" model="res.country.state.municipality.parish">
+        <field name="name">Fernando Girón Tovar</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0203" />
+        <field name="ubigeo">020301</field>
+    </record>
+    <record id="par_ve_AMA_020302" model="res.country.state.municipality.parish">
+        <field name="name">Luis Alberto Gómez</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0203" />
+        <field name="ubigeo">020302</field>
+    </record>
+    <record id="par_ve_AMA_020303" model="res.country.state.municipality.parish">
+        <field name="name">Parhueña</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0203" />
+        <field name="ubigeo">020303</field>
+    </record>
+    <record id="par_ve_AMA_020304" model="res.country.state.municipality.parish">
+        <field name="name">Platanillal</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0203" />
+        <field name="ubigeo">020304</field>
+    </record>
+    <record id="par_ve_AMA_020401" model="res.country.state.municipality.parish">
+        <field name="name">Samariapo</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0204" />
+        <field name="ubigeo">020401</field>
+    </record>
+    <record id="par_ve_AMA_020402" model="res.country.state.municipality.parish">
+        <field name="name">Sipapo</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0204" />
+        <field name="ubigeo">020402</field>
+    </record>
+    <record id="par_ve_AMA_020403" model="res.country.state.municipality.parish">
+        <field name="name">Munduapo</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0204" />
+        <field name="ubigeo">020403</field>
+    </record>
+    <record id="par_ve_AMA_020404" model="res.country.state.municipality.parish">
+        <field name="name">Guayapo</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0204" />
+        <field name="ubigeo">020404</field>
+    </record>
+    <record id="par_ve_AMA_020501" model="res.country.state.municipality.parish">
+        <field name="name">Victorino</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0205" />
+        <field name="ubigeo">020501</field>
+    </record>
+    <record id="par_ve_AMA_020502" model="res.country.state.municipality.parish">
+        <field name="name">Comunidad</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0205" />
+        <field name="ubigeo">020502</field>
+    </record>
+    <record id="par_ve_AMA_020601" model="res.country.state.municipality.parish">
+        <field name="name">Alto Ventuari</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0206" />
+        <field name="ubigeo">020601</field>
+    </record>
+    <record id="par_ve_AMA_020602" model="res.country.state.municipality.parish">
+        <field name="name">Medio Ventuari</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0206" />
+        <field name="ubigeo">020602</field>
+    </record>
+    <record id="par_ve_AMA_020603" model="res.country.state.municipality.parish">
+        <field name="name">Bajo Ventuari</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0206" />
+        <field name="ubigeo">020603</field>
+    </record>
+    <record id="par_ve_AMA_020701" model="res.country.state.municipality.parish">
+        <field name="name">Solano</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0207" />
+        <field name="ubigeo">020701</field>
+    </record>
+    <record id="par_ve_AMA_020702" model="res.country.state.municipality.parish">
+        <field name="name">Casiquiare</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0207" />
+        <field name="ubigeo">020702</field>
+    </record>
+    <record id="par_ve_AMA_020703" model="res.country.state.municipality.parish">
+        <field name="name">Cocuy</field>
+        <field name="municipality_id" ref="mun_ve_AMA_0207" />
+        <field name="ubigeo">020703</field>
+    </record>
+    <record id="par_ve_ANZ_030101" model="res.country.state.municipality.parish">
+        <field name="name">Capital Anaco</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0301" />
+        <field name="ubigeo">030101</field>
+    </record>
+    <record id="par_ve_ANZ_030102" model="res.country.state.municipality.parish">
+        <field name="name">San Joaquín</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0301" />
+        <field name="ubigeo">030102</field>
+    </record>
+    <record id="par_ve_ANZ_030103" model="res.country.state.municipality.parish">
+        <field name="name">Buena vista</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0301" />
+        <field name="ubigeo">030103</field>
+    </record>
+    <record id="par_ve_ANZ_030201" model="res.country.state.municipality.parish">
+        <field name="name">Capital Aragua</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0302" />
+        <field name="ubigeo">030201</field>
+    </record>
+    <record id="par_ve_ANZ_030202" model="res.country.state.municipality.parish">
+        <field name="name">Cachipo</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0302" />
+        <field name="ubigeo">030202</field>
+    </record>
+    <record id="par_ve_ANZ_030301" model="res.country.state.municipality.parish">
+        <field name="name">Capital Fernando de Peñalver</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0303" />
+        <field name="ubigeo">030301</field>
+    </record>
+    <record id="par_ve_ANZ_030302" model="res.country.state.municipality.parish">
+        <field name="name">San Miguel</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0303" />
+        <field name="ubigeo">030302</field>
+    </record>
+    <record id="par_ve_ANZ_030303" model="res.country.state.municipality.parish">
+        <field name="name">Sucre</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0303" />
+        <field name="ubigeo">030303</field>
+    </record>
+    <record id="par_ve_ANZ_030401" model="res.country.state.municipality.parish">
+        <field name="name">Capital Francisco del Carmen Carvajal</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0304" />
+        <field name="ubigeo">030401</field>
+    </record>
+    <record id="par_ve_ANZ_030402" model="res.country.state.municipality.parish">
+        <field name="name">Santa Bárbara</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0304" />
+        <field name="ubigeo">030402</field>
+    </record>
+    <record id="par_ve_ANZ_030501" model="res.country.state.municipality.parish">
+        <field name="name">Capital Francisco de Miranda</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0305" />
+        <field name="ubigeo">030501</field>
+    </record>
+    <record id="par_ve_ANZ_030502" model="res.country.state.municipality.parish">
+        <field name="name">Atapirire</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0305" />
+        <field name="ubigeo">030502</field>
+    </record>
+    <record id="par_ve_ANZ_030503" model="res.country.state.municipality.parish">
+        <field name="name">Boca del Pao</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0305" />
+        <field name="ubigeo">030503</field>
+    </record>
+    <record id="par_ve_ANZ_030504" model="res.country.state.municipality.parish">
+        <field name="name">El Pao</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0305" />
+        <field name="ubigeo">030504</field>
+    </record>
+    <record id="par_ve_ANZ_030505" model="res.country.state.municipality.parish">
+        <field name="name">Múcura</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0305" />
+        <field name="ubigeo">030505</field>
+    </record>
+    <record id="par_ve_ANZ_030601" model="res.country.state.municipality.parish">
+        <field name="name">Capital Guanta</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0306" />
+        <field name="ubigeo">030601</field>
+    </record>
+    <record id="par_ve_ANZ_030602" model="res.country.state.municipality.parish">
+        <field name="name">Chorrerón</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0306" />
+        <field name="ubigeo">030602</field>
+    </record>
+    <record id="par_ve_ANZ_030701" model="res.country.state.municipality.parish">
+        <field name="name">Capital Independencia</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0307" />
+        <field name="ubigeo">030701</field>
+    </record>
+    <record id="par_ve_ANZ_030702" model="res.country.state.municipality.parish">
+        <field name="name">Mamo</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0307" />
+        <field name="ubigeo">030702</field>
+    </record>
+    <record id="par_ve_ANZ_030801" model="res.country.state.municipality.parish">
+        <field name="name">Capital Puerto La Cruz</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0308" />
+        <field name="ubigeo">030801</field>
+    </record>
+    <record id="par_ve_ANZ_030802" model="res.country.state.municipality.parish">
+        <field name="name">Pozuelos</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0308" />
+        <field name="ubigeo">030802</field>
+    </record>
+    <record id="par_ve_ANZ_030901" model="res.country.state.municipality.parish">
+        <field name="name">Capital Juan Manuel Cajigal</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0309" />
+        <field name="ubigeo">030901</field>
+    </record>
+    <record id="par_ve_ANZ_030902" model="res.country.state.municipality.parish">
+        <field name="name">San Pablo</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0309" />
+        <field name="ubigeo">030902</field>
+    </record>
+    <record id="par_ve_ANZ_031001" model="res.country.state.municipality.parish">
+        <field name="name">Capital José Gregorio Monagas</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0310" />
+        <field name="ubigeo">031001</field>
+    </record>
+    <record id="par_ve_ANZ_031002" model="res.country.state.municipality.parish">
+        <field name="name">Piar</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0310" />
+        <field name="ubigeo">031002</field>
+    </record>
+    <record id="par_ve_ANZ_031003" model="res.country.state.municipality.parish">
+        <field name="name">San Diego de Cabrutica</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0310" />
+        <field name="ubigeo">031003</field>
+    </record>
+    <record id="par_ve_ANZ_031004" model="res.country.state.municipality.parish">
+        <field name="name">Santa Clara</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0310" />
+        <field name="ubigeo">031004</field>
+    </record>
+    <record id="par_ve_ANZ_031005" model="res.country.state.municipality.parish">
+        <field name="name">Uverito</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0310" />
+        <field name="ubigeo">031005</field>
+    </record>
+    <record id="par_ve_ANZ_031006" model="res.country.state.municipality.parish">
+        <field name="name">Zuata</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0310" />
+        <field name="ubigeo">031006</field>
+    </record>
+    <record id="par_ve_ANZ_031101" model="res.country.state.municipality.parish">
+        <field name="name">Capital Libertad</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0311" />
+        <field name="ubigeo">031101</field>
+    </record>
+    <record id="par_ve_ANZ_031102" model="res.country.state.municipality.parish">
+        <field name="name">El Carito</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0311" />
+        <field name="ubigeo">031102</field>
+    </record>
+    <record id="par_ve_ANZ_031103" model="res.country.state.municipality.parish">
+        <field name="name">Santa Inés</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0311" />
+        <field name="ubigeo">031103</field>
+    </record>
+    <record id="par_ve_ANZ_031201" model="res.country.state.municipality.parish">
+        <field name="name">Capital Manuel Ezequiel Bruzual</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0312" />
+        <field name="ubigeo">031201</field>
+    </record>
+    <record id="par_ve_ANZ_031202" model="res.country.state.municipality.parish">
+        <field name="name">Guanape</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0312" />
+        <field name="ubigeo">031202</field>
+    </record>
+    <record id="par_ve_ANZ_031203" model="res.country.state.municipality.parish">
+        <field name="name">Sabana de Uchire</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0312" />
+        <field name="ubigeo">031203</field>
+    </record>
+    <record id="par_ve_ANZ_031301" model="res.country.state.municipality.parish">
+        <field name="name">Capital Pedro María Fréites</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0313" />
+        <field name="ubigeo">031301</field>
+    </record>
+    <record id="par_ve_ANZ_031302" model="res.country.state.municipality.parish">
+        <field name="name">Libertador</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0313" />
+        <field name="ubigeo">031302</field>
+    </record>
+    <record id="par_ve_ANZ_031303" model="res.country.state.municipality.parish">
+        <field name="name">Santa Rosa</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0313" />
+        <field name="ubigeo">031303</field>
+    </record>
+    <record id="par_ve_ANZ_031304" model="res.country.state.municipality.parish">
+        <field name="name">Urica</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0313" />
+        <field name="ubigeo">031304</field>
+    </record>
+    <record id="par_ve_ANZ_031401" model="res.country.state.municipality.parish">
+        <field name="name">Capital Píritu</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0314" />
+        <field name="ubigeo">031401</field>
+    </record>
+    <record id="par_ve_ANZ_031402" model="res.country.state.municipality.parish">
+        <field name="name">San Francisco</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0314" />
+        <field name="ubigeo">031402</field>
+    </record>
+    <record id="par_ve_ANZ_031501" model="res.country.state.municipality.parish">
+        <field name="name">No Tiene Parroquia</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0315" />
+        <field name="ubigeo">031501</field>
+    </record>
+    <record id="par_ve_ANZ_031601" model="res.country.state.municipality.parish">
+        <field name="name">Capital San Juan de Capistrano</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0316" />
+        <field name="ubigeo">031601</field>
+    </record>
+    <record id="par_ve_ANZ_031602" model="res.country.state.municipality.parish">
+        <field name="name">Boca de Chávez</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0316" />
+        <field name="ubigeo">031602</field>
+    </record>
+    <record id="par_ve_ANZ_031701" model="res.country.state.municipality.parish">
+        <field name="name">Capital Santa Ana</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0317" />
+        <field name="ubigeo">031701</field>
+    </record>
+    <record id="par_ve_ANZ_031702" model="res.country.state.municipality.parish">
+        <field name="name">Pueblo Nuevo</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0317" />
+        <field name="ubigeo">031702</field>
+    </record>
+    <record id="par_ve_ANZ_031801" model="res.country.state.municipality.parish">
+        <field name="name">El Carmen</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0318" />
+        <field name="ubigeo">031801</field>
+    </record>
+    <record id="par_ve_ANZ_031802" model="res.country.state.municipality.parish">
+        <field name="name">San Cristóbal</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0318" />
+        <field name="ubigeo">031802</field>
+    </record>
+    <record id="par_ve_ANZ_031803" model="res.country.state.municipality.parish">
+        <field name="name">Bergantín</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0318" />
+        <field name="ubigeo">031803</field>
+    </record>
+    <record id="par_ve_ANZ_031804" model="res.country.state.municipality.parish">
+        <field name="name">Caigua</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0318" />
+        <field name="ubigeo">031804</field>
+    </record>
+    <record id="par_ve_ANZ_031805" model="res.country.state.municipality.parish">
+        <field name="name">El Pilar</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0318" />
+        <field name="ubigeo">031805</field>
+    </record>
+    <record id="par_ve_ANZ_031806" model="res.country.state.municipality.parish">
+        <field name="name">Naricual</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0318" />
+        <field name="ubigeo">031806</field>
+    </record>
+    <record id="par_ve_ANZ_031901" model="res.country.state.municipality.parish">
+        <field name="name">Edmundo Barrios</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0319" />
+        <field name="ubigeo">031901</field>
+    </record>
+    <record id="par_ve_ANZ_031902" model="res.country.state.municipality.parish">
+        <field name="name">Miguel Otero Silva</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0319" />
+        <field name="ubigeo">031902</field>
+    </record>
+    <record id="par_ve_ANZ_032001" model="res.country.state.municipality.parish">
+        <field name="name">Capital Sir Arthur Mc Gregor</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0320" />
+        <field name="ubigeo">032001</field>
+    </record>
+    <record id="par_ve_ANZ_032002" model="res.country.state.municipality.parish">
+        <field name="name">Tomás Alfaro Calatrava</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0320" />
+        <field name="ubigeo">032002</field>
+    </record>
+    <record id="par_ve_ANZ_032101" model="res.country.state.municipality.parish">
+        <field name="name">Capital Diego Bautista Urbaneja</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0321" />
+        <field name="ubigeo">032101</field>
+    </record>
+    <record id="par_ve_ANZ_032102" model="res.country.state.municipality.parish">
+        <field name="name">El Morro</field>
+        <field name="municipality_id" ref="mun_ve_ANZ_0321" />
+        <field name="ubigeo">032102</field>
+    </record>
+    <record id="par_ve_APU_040101" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Achaguas</field>
+        <field name="municipality_id" ref="mun_ve_APU_0401" />
+        <field name="ubigeo">040101</field>
+    </record>
+    <record id="par_ve_APU_040102" model="res.country.state.municipality.parish">
+        <field name="name">Apurito</field>
+        <field name="municipality_id" ref="mun_ve_APU_0401" />
+        <field name="ubigeo">040102</field>
+    </record>
+    <record id="par_ve_APU_040103" model="res.country.state.municipality.parish">
+        <field name="name">El Yagual</field>
+        <field name="municipality_id" ref="mun_ve_APU_0401" />
+        <field name="ubigeo">040103</field>
+    </record>
+    <record id="par_ve_APU_040104" model="res.country.state.municipality.parish">
+        <field name="name">Guachara</field>
+        <field name="municipality_id" ref="mun_ve_APU_0401" />
+        <field name="ubigeo">040104</field>
+    </record>
+    <record id="par_ve_APU_040105" model="res.country.state.municipality.parish">
+        <field name="name">Mucuritas</field>
+        <field name="municipality_id" ref="mun_ve_APU_0401" />
+        <field name="ubigeo">040105</field>
+    </record>
+    <record id="par_ve_APU_040106" model="res.country.state.municipality.parish">
+        <field name="name">Queseras del Medio</field>
+        <field name="municipality_id" ref="mun_ve_APU_0401" />
+        <field name="ubigeo">040106</field>
+    </record>
+    <record id="par_ve_APU_040201" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Biruaca</field>
+        <field name="municipality_id" ref="mun_ve_APU_0402" />
+        <field name="ubigeo">040201</field>
+    </record>
+    <record id="par_ve_APU_040301" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Bruzual</field>
+        <field name="municipality_id" ref="mun_ve_APU_0403" />
+        <field name="ubigeo">040301</field>
+    </record>
+    <record id="par_ve_APU_040302" model="res.country.state.municipality.parish">
+        <field name="name">Mantecal</field>
+        <field name="municipality_id" ref="mun_ve_APU_0403" />
+        <field name="ubigeo">040302</field>
+    </record>
+    <record id="par_ve_APU_040303" model="res.country.state.municipality.parish">
+        <field name="name">Quintero</field>
+        <field name="municipality_id" ref="mun_ve_APU_0403" />
+        <field name="ubigeo">040303</field>
+    </record>
+    <record id="par_ve_APU_040304" model="res.country.state.municipality.parish">
+        <field name="name">Rincón Hondo</field>
+        <field name="municipality_id" ref="mun_ve_APU_0403" />
+        <field name="ubigeo">040304</field>
+    </record>
+    <record id="par_ve_APU_040305" model="res.country.state.municipality.parish">
+        <field name="name">San Vicente</field>
+        <field name="municipality_id" ref="mun_ve_APU_0403" />
+        <field name="ubigeo">040305</field>
+    </record>
+    <record id="par_ve_APU_040401" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Guasdualito</field>
+        <field name="municipality_id" ref="mun_ve_APU_0404" />
+        <field name="ubigeo">040401</field>
+    </record>
+    <record id="par_ve_APU_040402" model="res.country.state.municipality.parish">
+        <field name="name">Aramendi</field>
+        <field name="municipality_id" ref="mun_ve_APU_0404" />
+        <field name="ubigeo">040402</field>
+    </record>
+    <record id="par_ve_APU_040403" model="res.country.state.municipality.parish">
+        <field name="name">El Amparo</field>
+        <field name="municipality_id" ref="mun_ve_APU_0404" />
+        <field name="ubigeo">040403</field>
+    </record>
+    <record id="par_ve_APU_040404" model="res.country.state.municipality.parish">
+        <field name="name">San Camilo</field>
+        <field name="municipality_id" ref="mun_ve_APU_0404" />
+        <field name="ubigeo">040404</field>
+    </record>
+    <record id="par_ve_APU_040405" model="res.country.state.municipality.parish">
+        <field name="name">Urdaneta</field>
+        <field name="municipality_id" ref="mun_ve_APU_0404" />
+        <field name="ubigeo">040405</field>
+    </record>
+    <record id="par_ve_APU_040501" model="res.country.state.municipality.parish">
+        <field name="name">Urbana San Juan de Payara</field>
+        <field name="municipality_id" ref="mun_ve_APU_0405" />
+        <field name="ubigeo">040501</field>
+    </record>
+    <record id="par_ve_APU_040502" model="res.country.state.municipality.parish">
+        <field name="name">Codazzi</field>
+        <field name="municipality_id" ref="mun_ve_APU_0405" />
+        <field name="ubigeo">040502</field>
+    </record>
+    <record id="par_ve_APU_040503" model="res.country.state.municipality.parish">
+        <field name="name">Cunaviche</field>
+        <field name="municipality_id" ref="mun_ve_APU_0405" />
+        <field name="ubigeo">040503</field>
+    </record>
+    <record id="par_ve_APU_040601" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Elorza</field>
+        <field name="municipality_id" ref="mun_ve_APU_0406" />
+        <field name="ubigeo">040601</field>
+    </record>
+    <record id="par_ve_APU_040602" model="res.country.state.municipality.parish">
+        <field name="name">La Trinidad</field>
+        <field name="municipality_id" ref="mun_ve_APU_0406" />
+        <field name="ubigeo">040602</field>
+    </record>
+    <record id="par_ve_APU_040701" model="res.country.state.municipality.parish">
+        <field name="name">Urbana San Fernando</field>
+        <field name="municipality_id" ref="mun_ve_APU_0407" />
+        <field name="ubigeo">040701</field>
+    </record>
+    <record id="par_ve_APU_040702" model="res.country.state.municipality.parish">
+        <field name="name">El Recreo</field>
+        <field name="municipality_id" ref="mun_ve_APU_0407" />
+        <field name="ubigeo">040702</field>
+    </record>
+    <record id="par_ve_APU_040703" model="res.country.state.municipality.parish">
+        <field name="name">Peñalver</field>
+        <field name="municipality_id" ref="mun_ve_APU_0407" />
+        <field name="ubigeo">040703</field>
+    </record>
+    <record id="par_ve_APU_040704" model="res.country.state.municipality.parish">
+        <field name="name">San Rafael de Atamaica</field>
+        <field name="municipality_id" ref="mun_ve_APU_0407" />
+        <field name="ubigeo">040704</field>
+    </record>
+    <record id="par_ve_ARA_050101" model="res.country.state.municipality.parish">
+        <field name="name">No Tiene Parroquia</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0501" />
+        <field name="ubigeo">050101</field>
+    </record>
+    <record id="par_ve_ARA_050201" model="res.country.state.municipality.parish">
+        <field name="name">Camatagua</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0502" />
+        <field name="ubigeo">050201</field>
+    </record>
+    <record id="par_ve_ARA_050202" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Carmen de Cura</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0502" />
+        <field name="ubigeo">050202</field>
+    </record>
+    <record id="par_ve_ARA_050302" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Choroní</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0503" />
+        <field name="ubigeo">050302</field>
+    </record>
+    <record id="par_ve_ARA_050303" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Las Delicias</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0503" />
+        <field name="ubigeo">050303</field>
+    </record>
+    <record id="par_ve_ARA_050304" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Madre María de San José</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0503" />
+        <field name="ubigeo">050304</field>
+    </record>
+    <record id="par_ve_ARA_050305" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Joaquín Crespo</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0503" />
+        <field name="ubigeo">050305</field>
+    </record>
+    <record id="par_ve_ARA_050306" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Pedro José Ovalles</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0503" />
+        <field name="ubigeo">050306</field>
+    </record>
+    <record id="par_ve_ARA_050307" model="res.country.state.municipality.parish">
+        <field name="name">Urbana José Casanova Godoy</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0503" />
+        <field name="ubigeo">050307</field>
+    </record>
+    <record id="par_ve_ARA_050308" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Andrés Eloy Blanco</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0503" />
+        <field name="ubigeo">050308</field>
+    </record>
+    <record id="par_ve_ARA_050309" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Los Tacariguas</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0503" />
+        <field name="ubigeo">050309</field>
+    </record>
+    <record id="par_ve_ARA_050401" model="res.country.state.municipality.parish">
+        <field name="name">No Tiene Parroquia</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0504" />
+        <field name="ubigeo">050401</field>
+    </record>
+    <record id="par_ve_ARA_050501" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Juan Vicente Bolívar y Ponte</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0505" />
+        <field name="ubigeo">050501</field>
+    </record>
+    <record id="par_ve_ARA_050502" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Castor Nieves Ríos</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0505" />
+        <field name="ubigeo">050502</field>
+    </record>
+    <record id="par_ve_ARA_050503" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Las Guacamayas</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0505" />
+        <field name="ubigeo">050503</field>
+    </record>
+    <record id="par_ve_ARA_050504" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Pao de Zárate</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0505" />
+        <field name="ubigeo">050504</field>
+    </record>
+    <record id="par_ve_ARA_050505" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Zuata</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0505" />
+        <field name="ubigeo">050505</field>
+    </record>
+    <record id="par_ve_ARA_050601" model="res.country.state.municipality.parish">
+        <field name="name">No Tiene Parroquia</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0506" />
+        <field name="ubigeo">050601</field>
+    </record>
+    <record id="par_ve_ARA_050701" model="res.country.state.municipality.parish">
+        <field name="name">Libertador</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0507" />
+        <field name="ubigeo">050701</field>
+    </record>
+    <record id="par_ve_ARA_050702" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana San Martín de Porres</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0507" />
+        <field name="ubigeo">050702</field>
+    </record>
+    <record id="par_ve_ARA_050801" model="res.country.state.municipality.parish">
+        <field name="name">Mario Briceño Iragorry</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0508" />
+        <field name="ubigeo">050801</field>
+    </record>
+    <record id="par_ve_ARA_050802" model="res.country.state.municipality.parish">
+        <field name="name">Urbana Caña de Azúcar</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0508" />
+        <field name="ubigeo">050802</field>
+    </record>
+    <record id="par_ve_ARA_050901" model="res.country.state.municipality.parish">
+        <field name="name">San Casimiro</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0509" />
+        <field name="ubigeo">050901</field>
+    </record>
+    <record id="par_ve_ARA_050902" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Güiripa</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0509" />
+        <field name="ubigeo">050902</field>
+    </record>
+    <record id="par_ve_ARA_050903" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Ollas de Caramacate</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0509" />
+        <field name="ubigeo">050903</field>
+    </record>
+    <record id="par_ve_ARA_050904" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Valle Morín</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0509" />
+        <field name="ubigeo">050904</field>
+    </record>
+    <record id="par_ve_ARA_051001" model="res.country.state.municipality.parish">
+        <field name="name">No Tiene Parroquia</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0510" />
+        <field name="ubigeo">051001</field>
+    </record>
+    <record id="par_ve_ARA_051101" model="res.country.state.municipality.parish">
+        <field name="name">Santiago Mariño</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0511" />
+        <field name="ubigeo">051101</field>
+    </record>
+    <record id="par_ve_ARA_051102" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Arévalo Aponte</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0511" />
+        <field name="ubigeo">051102</field>
+    </record>
+    <record id="par_ve_ARA_051103" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Chuao</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0511" />
+        <field name="ubigeo">051103</field>
+    </record>
+    <record id="par_ve_ARA_051104" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Samán de Güere</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0511" />
+        <field name="ubigeo">051104</field>
+    </record>
+    <record id="par_ve_ARA_051105" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Alfredo Pacheco Miranda</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0511" />
+        <field name="ubigeo">051105</field>
+    </record>
+    <record id="par_ve_ARA_051201" model="res.country.state.municipality.parish">
+        <field name="name">Santos Michelena</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0512" />
+        <field name="ubigeo">051201</field>
+    </record>
+    <record id="par_ve_ARA_051202" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Tiara</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0512" />
+        <field name="ubigeo">051202</field>
+    </record>
+    <record id="par_ve_ARA_051301" model="res.country.state.municipality.parish">
+        <field name="name">Sucre</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0513" />
+        <field name="ubigeo">051301</field>
+    </record>
+    <record id="par_ve_ARA_051302" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Bella Vista</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0513" />
+        <field name="ubigeo">051302</field>
+    </record>
+    <record id="par_ve_ARA_051401" model="res.country.state.municipality.parish">
+        <field name="name">No Tiene Parroquia</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0514" />
+        <field name="ubigeo">051401</field>
+    </record>
+    <record id="par_ve_ARA_051501" model="res.country.state.municipality.parish">
+        <field name="name">Urdaneta</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0515" />
+        <field name="ubigeo">051501</field>
+    </record>
+    <record id="par_ve_ARA_051502" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Las Peñitas</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0515" />
+        <field name="ubigeo">051502</field>
+    </record>
+    <record id="par_ve_ARA_051503" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana San Francisco de Cara</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0515" />
+        <field name="ubigeo">051503</field>
+    </record>
+    <record id="par_ve_ARA_051504" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Taguay</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0515" />
+        <field name="ubigeo">051504</field>
+    </record>
+    <record id="par_ve_ARA_051601" model="res.country.state.municipality.parish">
+        <field name="name">Zamora</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0516" />
+        <field name="ubigeo">051601</field>
+    </record>
+    <record id="par_ve_ARA_051602" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Magdaleno</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0516" />
+        <field name="ubigeo">051602</field>
+    </record>
+    <record id="par_ve_ARA_051603" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana San Francisco de Asís</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0516" />
+        <field name="ubigeo">051603</field>
+    </record>
+    <record id="par_ve_ARA_051604" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Valles de Tucutunemo</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0516" />
+        <field name="ubigeo">051604</field>
+    </record>
+    <record id="par_ve_ARA_051605" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Augusto Mijares</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0516" />
+        <field name="ubigeo">051605</field>
+    </record>
+    <record id="par_ve_ARA_051701" model="res.country.state.municipality.parish">
+        <field name="name">Francisco Linares Alcántara</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0517" />
+        <field name="ubigeo">051701</field>
+    </record>
+    <record id="par_ve_ARA_051702" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Francisco de Miranda</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0517" />
+        <field name="ubigeo">051702</field>
+    </record>
+    <record id="par_ve_ARA_051703" model="res.country.state.municipality.parish">
+        <field name="name">No Urbana Monseñor Feliciano González</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0517" />
+        <field name="ubigeo">051703</field>
+    </record>
+    <record id="par_ve_ARA_051801" model="res.country.state.municipality.parish">
+        <field name="name">No Tiene Parroquia</field>
+        <field name="municipality_id" ref="mun_ve_ARA_0518" />
+        <field name="ubigeo">051801</field>
+    </record>
+    <record id="par_ve_BAR_060101" model="res.country.state.municipality.parish">
+        <field name="name">Sabaneta</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0601" />
+        <field name="ubigeo">060101</field>
+    </record>
+    <record id="par_ve_BAR_060102" model="res.country.state.municipality.parish">
+        <field name="name">Rodríguez Domínguez</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0601" />
+        <field name="ubigeo">060102</field>
+    </record>
+    <record id="par_ve_BAR_060201" model="res.country.state.municipality.parish">
+        <field name="name">Ticoporo</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0602" />
+        <field name="ubigeo">060201</field>
+    </record>
+    <record id="par_ve_BAR_060202" model="res.country.state.municipality.parish">
+        <field name="name">Andrés Bello</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0602" />
+        <field name="ubigeo">060202</field>
+    </record>
+    <record id="par_ve_BAR_060203" model="res.country.state.municipality.parish">
+        <field name="name">Nicolás Pulido</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0602" />
+        <field name="ubigeo">060203</field>
+    </record>
+    <record id="par_ve_BAR_060301" model="res.country.state.municipality.parish">
+        <field name="name">Arismendi</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0603" />
+        <field name="ubigeo">060301</field>
+    </record>
+    <record id="par_ve_BAR_060302" model="res.country.state.municipality.parish">
+        <field name="name">Guadarrama</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0603" />
+        <field name="ubigeo">060302</field>
+    </record>
+    <record id="par_ve_BAR_060303" model="res.country.state.municipality.parish">
+        <field name="name">La Unión</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0603" />
+        <field name="ubigeo">060303</field>
+    </record>
+    <record id="par_ve_BAR_060304" model="res.country.state.municipality.parish">
+        <field name="name">San Antonio</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0603" />
+        <field name="ubigeo">060304</field>
+    </record>
+    <record id="par_ve_BAR_060401" model="res.country.state.municipality.parish">
+        <field name="name">Barinas</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0604" />
+        <field name="ubigeo">060401</field>
+    </record>
+    <record id="par_ve_BAR_060402" model="res.country.state.municipality.parish">
+        <field name="name">Alfredo Arvelo Larriva</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0604" />
+        <field name="ubigeo">060402</field>
+    </record>
+    <record id="par_ve_BAR_060403" model="res.country.state.municipality.parish">
+        <field name="name">San Silvestre</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0604" />
+        <field name="ubigeo">060403</field>
+    </record>
+    <record id="par_ve_BAR_060404" model="res.country.state.municipality.parish">
+        <field name="name">Santa Inés</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0604" />
+        <field name="ubigeo">060404</field>
+    </record>
+    <record id="par_ve_BAR_060405" model="res.country.state.municipality.parish">
+        <field name="name">Santa Lucía</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0604" />
+        <field name="ubigeo">060405</field>
+    </record>
+    <record id="par_ve_BAR_060406" model="res.country.state.municipality.parish">
+        <field name="name">Torunos</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0604" />
+        <field name="ubigeo">060406</field>
+    </record>
+    <record id="par_ve_BAR_060407" model="res.country.state.municipality.parish">
+        <field name="name">El Carmen</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0604" />
+        <field name="ubigeo">060407</field>
+    </record>
+    <record id="par_ve_BAR_060408" model="res.country.state.municipality.parish">
+        <field name="name">Rómulo Betancourt</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0604" />
+        <field name="ubigeo">060408</field>
+    </record>
+    <record id="par_ve_BAR_060409" model="res.country.state.municipality.parish">
+        <field name="name">Corazón de Jesús</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0604" />
+        <field name="ubigeo">060409</field>
+    </record>
+    <record id="par_ve_BAR_060410" model="res.country.state.municipality.parish">
+        <field name="name">Ramón Ignacio Méndez</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0604" />
+        <field name="ubigeo">060410</field>
+    </record>
+    <record id="par_ve_BAR_060411" model="res.country.state.municipality.parish">
+        <field name="name">Alto Barinas</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0604" />
+        <field name="ubigeo">060411</field>
+    </record>
+    <record id="par_ve_BAR_060412" model="res.country.state.municipality.parish">
+        <field name="name">Manuel Palacio Fajardo</field>
+        <field name="municipality_id" ref="mun_ve_BAR_0604" />
+        <field name="ubigeo">060412</field>
+    </record>
 	<record id="par_ve_BAR_060413" model="res.country.state.municipality.parish">
 		<field name="name">Juan Antonio Rodríguez Domínguez</field>
 		<field name="municipality_id" ref="mun_ve_BAR_0604" />
