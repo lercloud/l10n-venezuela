@@ -6,6 +6,7 @@ from odoo import api, fields, models
 
 class CountryState(models.Model):
     """ Add Municipalities reference in State """
+
     _name = "res.country.state"
     _inherit = "res.country.state"
     _description = "Country states"
@@ -18,6 +19,7 @@ class CountryState(models.Model):
 
 class StateMunicipality(models.Model):
     """States Municipalities"""
+
     _name = "res.country.state.municipality"
     _description = "State municipalities"
 
@@ -38,6 +40,7 @@ class StateMunicipality(models.Model):
 
 class MunicipalityParish(models.Model):
     """States Parishes"""
+
     _name = "res.country.state.municipality.parish"
     _description = "Municipality parishes"
 
