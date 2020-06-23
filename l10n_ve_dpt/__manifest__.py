@@ -17,6 +17,5 @@
         "views/res_partner.xml",
         "security/ir.model.access.csv",
     ],
-    "demo": [],
     "installable": True,
 }
