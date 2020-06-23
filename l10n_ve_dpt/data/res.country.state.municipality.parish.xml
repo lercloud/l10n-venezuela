@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <odoo noupdate="0">
-	<record id="par_ve_DTC_010101" model="res.country.state.municipality.parish">
+    <record id="par_ve_DTC_010101" model="res.country.state.municipality.parish">
 		<field name="name">Altagracia</field>
 		<field name="municipality_id" ref="mun_ve_DTC_0101" />
 		<field name="ubigeo">010101</field>

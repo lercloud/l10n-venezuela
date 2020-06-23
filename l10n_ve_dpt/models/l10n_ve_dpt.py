@@ -11,9 +11,7 @@ class CountryState(models.Model):
     _description = "Country states"
 
     municipality_id = fields.One2many(
-        "res.country.state.municipality",
-        "state_id",
-        "Municipalities in this state"
+        "res.country.state.municipality", "state_id", "Municipalities in this state"
     )
     ubigeo = fields.Char(string="ubigeo code", size=2)
 
