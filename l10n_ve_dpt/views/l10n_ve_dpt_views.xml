@@ -4,14 +4,14 @@
         <field name="name">res.country.state.filter</field>
         <field name="model">res.country.state</field>
         <field name="arch" type="xml">
-        <search>
-            <field name="ubigeo" />
-            <field name="name" />
-            <filter
-                name="Venezuela"
-                domain="[('country_id.name','=','Venezuela')]"
-    />
-        </search>
+            <search>
+                <field name="ubigeo" />
+                <field name="name" />
+                <filter
+                    name="Venezuela"
+                    domain="[('country_id.name','=','Venezuela')]"
+                />
+            </search>
         </field>
     </record>
     <record id="res_country_state_form_inherited" model="ir.ui.view">
@@ -101,9 +101,7 @@
     </record>
     <record id="action_parish" model="ir.actions.act_window">
         <field name="name">Parish</field>
-        <field
-        name="res_model"
-        >res.country.state.municipality.parish</field>
+        <field name="res_model">res.country.state.municipality.parish</field>
         <field name="type">ir.actions.act_window</field>
         <field name="view_mode">tree,form</field>
     </record>
