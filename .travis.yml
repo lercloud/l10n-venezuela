@@ -11,6 +11,7 @@ addons:
   postgresql: "9.6"
   apt:
     packages:
+      - dos2unix
       - expect-dev # provides unbuffer utility
 
 stages:
@@ -43,6 +44,7 @@ install:
   - travis_install_nightly
 
 script:
+  - dos2unix ${TRAVIS_BUILD_DIR}/scripts/*
   - travis_run_tests
 
 after_success:
