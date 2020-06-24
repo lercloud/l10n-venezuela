@@ -44,7 +44,7 @@ install:
   - travis_install_nightly
 
 script:
-  - dos2unix ${TRAVIS_BUILD_DIR}/scripts/*
+  - dos2unix ${HOME}/scripts/*
   - travis_run_tests
 
 after_success:
