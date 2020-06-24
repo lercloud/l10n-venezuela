@@ -3,7 +3,7 @@
 {
     "name": "Municipalities and Parishes of Venezuela",
     "summary": "Popular Database of Municipalities and Parishes of Venezuela",
-    "author": "LerCLoud, " "Konos, " "BachacoVE",
+    "author": "LerCLoud, " "Konos, " "BachacoVE, " "Odoo Community Association (OCA)",
     "website": "https://lercloud.com",
     "category": "Venezuela Localization",
     "version": "13.0.3.0.0",
